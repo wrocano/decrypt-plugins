@@ -1,1 +1,406 @@
-[]
+[
+  {
+    "id": "aes-cbc-1.0",
+    "name": "Aes Cbc 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "aes-cbc-1.0.jar",
+    "downloadUrl": "plugins/aes-cbc-1.0.jar",
+    "size": 14707511,
+    "checksum": "6d3fe6faca60bcc0a7d9f04bbedf3ba848a3dee385dcb2286016eb3de2abe3cb",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "aes-gcm-1.0",
+    "name": "Aes Gcm 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "aes-gcm-1.0.jar",
+    "downloadUrl": "plugins/aes-gcm-1.0.jar",
+    "size": 14701709,
+    "checksum": "ba7e160eab1e4b3aed5e15c1670909d931e754e4907cfa75fbdf85a15e3ee40f",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "aes-gcm-canales-1.0",
+    "name": "Aes Gcm Canales 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "aes-gcm-canales-1.0.jar",
+    "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
+    "size": 14701463,
+    "checksum": "9ac00fa7f95543067496bc51013cba9137f7474f6e262cffe8979701130d4b93",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "clipboard-history-1.0",
+    "name": "Clipboard History 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "clipboard-history-1.0.jar",
+    "downloadUrl": "plugins/clipboard-history-1.0.jar",
+    "size": 14663046,
+    "checksum": "ab6a28a7555026548fe8a98163b307cc102a75d8711dba43421537d2f26f04a2",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "database-workbench-1.0",
+    "name": "Database Workbench 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "database-workbench-1.0.jar",
+    "downloadUrl": "plugins/database-workbench-1.0.jar",
+    "size": 49156793,
+    "checksum": "4330ff6b169bd561c8bb5670d12eb2205a789a8ac4b28a4e425d1628e1653dec",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "fitbank-des-1.0",
+    "name": "Fitbank Des 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "fitbank-des-1.0.jar",
+    "downloadUrl": "plugins/fitbank-des-1.0.jar",
+    "size": 14682926,
+    "checksum": "98f573041ff113782f17bc870c2577a623b4f273f194f448d7d80f7e38e5a7b1",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "git-client-1.0",
+    "name": "Git Client 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "git-client-1.0.jar",
+    "downloadUrl": "plugins/git-client-1.0.jar",
+    "size": 21061128,
+    "checksum": "60d75854553ea172f371250249d0ca80c0ff7762fe4214c93c4a0a746446aa00",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "jar-explorer-1.0",
+    "name": "Jar Explorer 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "jar-explorer-1.0.jar",
+    "downloadUrl": "plugins/jar-explorer-1.0.jar",
+    "size": 16894819,
+    "checksum": "8322e8feb38325e0938102fe87e87ca7250c97cd117d0c68021248b57f9efd16",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "jcoder-1.0",
+    "name": "Jcoder 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "jcoder-1.0.jar",
+    "downloadUrl": "plugins/jcoder-1.0.jar",
+    "size": 14716433,
+    "checksum": "c69e040854da5c81bec0a4ec7b25e3627c77a0ab504eff5c0d4f63657ae6b678",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "log-tracker-1.0",
+    "name": "Log Tracker 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "log-tracker-1.0.jar",
+    "downloadUrl": "plugins/log-tracker-1.0.jar",
+    "size": 18576997,
+    "checksum": "9f9bfcd79d9f039ce7a6492aef714456680c606dd0620857353f5f096d97842e",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "meld-diff-1.0",
+    "name": "Meld Diff 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "POPUP",
+    "fileName": "meld-diff-1.0.jar",
+    "downloadUrl": "plugins/meld-diff-1.0.jar",
+    "size": 16168848,
+    "checksum": "4c0f32d518ebd82411071c450b5974a15b8f2187529d265fc4a6dda6798cdb05",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "mermaid-editor-1.0",
+    "name": "Mermaid Editor 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "mermaid-editor-1.0.jar",
+    "downloadUrl": "plugins/mermaid-editor-1.0.jar",
+    "size": 15560831,
+    "checksum": "28258397b2794c789bfe05ae48c5c0c1bcbc7bdb7720be22273e8b5573fba319",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "mock-1.0",
+    "name": "Mock 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "mock-1.0.jar",
+    "downloadUrl": "plugins/mock-1.0.jar",
+    "size": 14713887,
+    "checksum": "b86226a77fe1bf05c6827665f3c9aa327acaa9e102d8dc6a6260c286b8b475d5",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "notes-studio-1.0",
+    "name": "Notes Studio 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "notes-studio-1.0.jar",
+    "downloadUrl": "plugins/notes-studio-1.0.jar",
+    "size": 14713767,
+    "checksum": "6aec86bad64de33aab0a28b04a313ee8bf8026fa4c195db8c5517728030758b3",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "notes-workbench-1.0",
+    "name": "Notes Workbench 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "notes-workbench-1.0.jar",
+    "downloadUrl": "plugins/notes-workbench-1.0.jar",
+    "size": 14693200,
+    "checksum": "709ad757105731ad02323f3acf60843136d658141021abb2e2b16cb0a1f88c20",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "popup-remove-duplicates-1.0",
+    "name": "Popup Remove Duplicates 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "POPUP",
+    "fileName": "popup-remove-duplicates-1.0.jar",
+    "downloadUrl": "plugins/popup-remove-duplicates-1.0.jar",
+    "size": 14682429,
+    "checksum": "582b6086c0bd68c0cc58a7a404c6187c7709e2179d5eeeca93efbfae7796216c",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "popup-repeated-lines-table-1.0",
+    "name": "Popup Repeated Lines Table 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "POPUP",
+    "fileName": "popup-repeated-lines-table-1.0.jar",
+    "downloadUrl": "plugins/popup-repeated-lines-table-1.0.jar",
+    "size": 14685926,
+    "checksum": "7e27bfd70a5233210166bbb08c2710056e7a937faa2bdb76a15282e04407613b",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "remote-connections-1.0",
+    "name": "Remote Connections 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "remote-connections-1.0.jar",
+    "downloadUrl": "plugins/remote-connections-1.0.jar",
+    "size": 14726374,
+    "checksum": "14ae11af18dbbd235ca02e688af51af85246632bf88eb5d7c536b249f22eaa3f",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "sftp-workbench-1.0",
+    "name": "Sftp Workbench 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "sftp-workbench-1.0.jar",
+    "downloadUrl": "plugins/sftp-workbench-1.0.jar",
+    "size": 15312930,
+    "checksum": "bcb94056c04d6f294da7f7c406806f9b5d80ec736a39f1b05c65f8fa814ebdef",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "soap-client-1.0",
+    "name": "Soap Client 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "soap-client-1.0.jar",
+    "downloadUrl": "plugins/soap-client-1.0.jar",
+    "size": 12538992,
+    "checksum": "b7af481dcf18a9b9ab422ea9b5d424482943469b8bc0a6ee6781e532b7c2981d",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "triple-des-1.0",
+    "name": "Triple Des 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "triple-des-1.0.jar",
+    "downloadUrl": "plugins/triple-des-1.0.jar",
+    "size": 14700612,
+    "checksum": "6a305ea61f4cc2a61dc30b18d8045ff795e4a3f18f56a79518fd37c9762d87fe",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-calculator-1.0",
+    "name": "Widget Calculator 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-calculator-1.0.jar",
+    "downloadUrl": "plugins/widget-calculator-1.0.jar",
+    "size": 14691356,
+    "checksum": "eaaad00d95cfa41e01f26ec6deb91dd8e9af46ccee68997351d33ef1a3af0586",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-converter-base64-1.0",
+    "name": "Widget Converter Base64 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-converter-base64-1.0.jar",
+    "downloadUrl": "plugins/widget-converter-base64-1.0.jar",
+    "size": 14684554,
+    "checksum": "ed8d29cd0bb0a59e8a63cb296244477450f1698ad6cddd13fc2a6b3192a9e0a2",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-data-generator-1.0",
+    "name": "Widget Data Generator 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-data-generator-1.0.jar",
+    "downloadUrl": "plugins/widget-data-generator-1.0.jar",
+    "size": 16550658,
+    "checksum": "1a6d951b3c503ece6c7b2e5bf5f443db6d5fb44d218af90df28167b05bdbd3b0",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-image-ocr-1.0",
+    "name": "Widget Image Ocr 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-image-ocr-1.0.jar",
+    "downloadUrl": "plugins/widget-image-ocr-1.0.jar",
+    "size": 14701615,
+    "checksum": "95950c3b0c1c8804846d230d37228bdf86b8d1d4814c3caf8080168ef94738d5",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-qr-generator-1.0",
+    "name": "Widget Qr Generator 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-qr-generator-1.0.jar",
+    "downloadUrl": "plugins/widget-qr-generator-1.0.jar",
+    "size": 16036868,
+    "checksum": "123c1c929f0f693decd439fe54eff7081fce439a02ca9edd04a8951f2e45cde2",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+  ,
+  {
+    "id": "widget-uuid-1.0",
+    "name": "Widget Uuid 1.0",
+    "description": "",
+    "version": "1.0.0",
+    "category": "WIDGET",
+    "fileName": "widget-uuid-1.0.jar",
+    "downloadUrl": "plugins/widget-uuid-1.0.jar",
+    "size": 14683744,
+    "checksum": "9b74a763f7066d802ef3258148da34d5a50180d0507b8428890abb194e1d5473",
+    "minAppVersion": "1.0",
+    "author": "DEcrypt Team",
+    "updatedAt": "2026-08-06"
+  }
+]
