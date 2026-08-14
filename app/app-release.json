@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "fileName": "DEcrypt.jar",
+  "size": 77995014,
+  "checksum": "50b9011054e259e6e79edb2e86d16d22161bbf4b6e9f026234b924dfd67d6186",
+  "releaseDate": "2026-08-14T16:19:39",
+  "releaseNotes": "Versión inicial con marketplace, auto-actualización, importación Postman",
+  "minJavaVersion": "11"
+}
