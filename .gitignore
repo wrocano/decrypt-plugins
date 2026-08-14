@@ -1,2 +1,3 @@
-.DS_Store
+.changed-plugins
 *.tmp
+.DS_Store

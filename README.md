@@ -5,24 +5,16 @@ Repositorio de distribución de plugins compilados para DEcrypt.
 ## Estructura
 
 ```
-├── registry.json          ← Catálogo auto-generado de plugins disponibles
-├── plugins/               ← JARs compilados listos para descargar
-│   ├── database-workbench-1.0.jar
-│   ├── jcoder-1.0.jar
-│   └── ...
-├── generateRegistry.sh    ← Script que genera registry.json
-└── initPluginRepo.sh      ← Script de inicialización (uso único)
+├── registry.json          ← Catálogo auto-generado
+├── plugins/               ← JARs de plugins
+├── app/                   ← Distribución de la app
+│   ├── app-release.json
+│   └── DEcrypt.jar
+├── generateRegistry.sh
+└── initPluginRepo.sh
 ```
 
-## Uso
-
-Este repositorio es gestionado automáticamente por el script `compileAllPlugins`
-del proyecto DEcrypt. No editar manualmente.
-
-## Acceso desde DEcrypt
-
-Requiere un GitHub Fine-Grained Token con permiso `Contents: Read-only`
-configurado en: **Widgets → Plugin Marketplace → Configurar Token**
+## Configuración en DEcrypt
 
 | Campo | Valor |
 |-------|-------|
