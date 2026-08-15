@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "fileName": "DEcrypt.jar",
   "size": 77973194,
   "checksum": "5b70fba6b9c7858f16c91b94fa045891c5ea040edd04a31e44026c3f770e98ba",
-  "releaseDate": "2026-08-14T16:52:22",
-  "releaseNotes": "Descargar nueva version de aplicacion",
+  "releaseDate": "2026-08-15T07:43:37",
+  "releaseNotes": "Ajustes para actualizacion de la aplicacion.",
   "minJavaVersion": "11"
 }
