@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "fileName": "DEcrypt.jar",
-  "size": 77997820,
-  "checksum": "66cb70459debb6bdd2b82d9298398d1e441e5a553eb5d03ef3151ec9e02c2f65",
-  "releaseDate": "2026-08-17T10:42:18",
-  "releaseNotes": "fix scroll up down seccion cipher",
+  "size": 78023136,
+  "checksum": "aaa9d39732e6747e8ad34008953e04fb707839833ea4bb02f2cb7825de3c726b",
+  "releaseDate": "2026-08-17T14:58:35",
+  "releaseNotes": "unificado text preview en dependencia",
   "minJavaVersion": "11"
 }
