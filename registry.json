@@ -6,12 +6,12 @@
     "category": "CIPHER",
     "fileName": "aes-cbc-1.0.jar",
     "downloadUrl": "plugins/aes-cbc-1.0.jar",
-    "size": 14707610,
-    "checksum": "04cf460da703febf3ed2583db7b747081f568174dcf672f3416a1f18d664acb3",
-    "md5": "62e9e4602bfa4eab59ae7b4d83652ee5",
+    "size": 14707646,
+    "checksum": "168fd9f89bf7aa8b663247562cd2fe0a799f475ccda82b8a24c6ad4469c571ad",
+    "md5": "b17607d35754143de64f85451299f854",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -21,12 +21,12 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14701808,
-    "checksum": "e7b2e78ef4a25c73e778b84e85ea350422b410c619762d3123d0f16b04f692ef",
-    "md5": "dd43ea1f7f33579ab9e0f0a381f2456b",
+    "size": 14701844,
+    "checksum": "e3ee540d849401b703a762a1e8ef24b6d2ffaa8a92927ffcd412b7e431a417b0",
+    "md5": "486efdff401e6ece33652746f04c724a",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -36,12 +36,12 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-canales-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
-    "size": 14701562,
-    "checksum": "fd5961baf1e7e99528adc3aa847e188003b262760562e8e90f40fa5467271b40",
-    "md5": "59035f93ae8e1c9ca4e4c8e9b2e0cb7c",
+    "size": 14701598,
+    "checksum": "0f99e5fbe6ee5d6f74800af56a50081fdf78d3811b622a3c5d1a9f54abb0b4af",
+    "md5": "b222250024254194fef7018eedea1bf4",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -51,12 +51,12 @@
     "category": "PANEL",
     "fileName": "clipboard-history-1.0.jar",
     "downloadUrl": "plugins/clipboard-history-1.0.jar",
-    "size": 14663145,
-    "checksum": "cf0899d303581412f8382a153645de3fce68e9f8fd53c78534c1fa25ab43ef88",
-    "md5": "ad0777b4d3e3fe144cde7189445d84d0",
+    "size": 14663181,
+    "checksum": "61be5d030060078460ab947cd6fd3c25e6e34e9a5e778ce39e12ba894a9c3699",
+    "md5": "34dd24924b46bd121565b91b1f5a2c74",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -66,12 +66,12 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.0.jar",
-    "size": 49157073,
-    "checksum": "5e75a038e247f4c424fc7a36a400f26ff879e6b9ba62d41ff5cc1ee5520a33ca",
-    "md5": "9b8e8a8f8f664f6f18359ea5d9b824f1",
+    "size": 49161958,
+    "checksum": "78f392f419c4b5599f3ce13a8e8d9d3f4425f935d36a32c4c280efd5d3570322",
+    "md5": "6df4a4db39390b33d8895e7dddf07d1b",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -81,12 +81,12 @@
     "category": "CIPHER",
     "fileName": "fitbank-des-1.0.jar",
     "downloadUrl": "plugins/fitbank-des-1.0.jar",
-    "size": 14683025,
-    "checksum": "4c8517699b585b358a21548a645fdf1b563bee025fcbb480d474a19868d156a7",
-    "md5": "16099d3b2d2696be6f0da25e30e86566",
+    "size": 14683061,
+    "checksum": "6d7d7cf7f92605a431e663c79779cddec7e6a3bd0bedf1ea132c5922e0f36086",
+    "md5": "1dcfadfcdead9fcb7ed2510a94ad70e6",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -96,12 +96,12 @@
     "category": "PANEL",
     "fileName": "git-client-1.0.jar",
     "downloadUrl": "plugins/git-client-1.0.jar",
-    "size": 21061227,
-    "checksum": "8ebaeadeefd7cadb11125d24ce2696a05bdbfbca61387cf6acb6774a339e5bc7",
-    "md5": "9c3ed49690922591bf112162db2bbfc1",
+    "size": 21061263,
+    "checksum": "dc3ba10f8f7bb7ddb03777b0b71f92ab399fa38aa56b69a1327636fc4e9d45d8",
+    "md5": "ed25d650368e461fa5b5cdfe02f24ace",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -111,12 +111,12 @@
     "category": "PANEL",
     "fileName": "jar-explorer-1.0.jar",
     "downloadUrl": "plugins/jar-explorer-1.0.jar",
-    "size": 16894918,
-    "checksum": "6b972c67dd39b1174258702ed4d743eefc260d5c195e9a05af907dc319eb9bfe",
-    "md5": "17f9313002561462c7f3e9fdc0989963",
+    "size": 16894954,
+    "checksum": "f256bd04e2f9b8e2ab84ce8980c9caae98a36037ffacd6b2e53ef04dd6fff808",
+    "md5": "efe1e39879d4551ecb30e287df54a3fb",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -126,12 +126,12 @@
     "category": "PANEL",
     "fileName": "jcoder-1.0.jar",
     "downloadUrl": "plugins/jcoder-1.0.jar",
-    "size": 14716532,
-    "checksum": "17fab60cbb5affdba1bfa86f3096416c3b154ba5256071892309941307074ced",
-    "md5": "c5161cbe2563bd5d23e827e4bd1920c1",
+    "size": 14716568,
+    "checksum": "e263f652068502e1b3cb414116091cbb040c7343a6b997d12a2c8dcf9bdce2e8",
+    "md5": "f6c4626ea5fc8899690992211e51a8a8",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -141,12 +141,12 @@
     "category": "PANEL",
     "fileName": "log-tracker-1.0.jar",
     "downloadUrl": "plugins/log-tracker-1.0.jar",
-    "size": 18577096,
-    "checksum": "e04318e7be4ca8e7b6341774531e517dc24a1fdeb19a064f9e983e9084fefb98",
-    "md5": "c0bc4d62ae2608e733047389919ad7a0",
+    "size": 18577132,
+    "checksum": "6b34a24b25c3d38208ba105396748cb896b6e17142c596fe72405b91af1345fb",
+    "md5": "d2abbdd19096cf1e04e62aac78e16b6d",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -171,12 +171,12 @@
     "category": "PANEL",
     "fileName": "mermaid-editor-1.0.jar",
     "downloadUrl": "plugins/mermaid-editor-1.0.jar",
-    "size": 15560930,
-    "checksum": "cbc335710a90ae253114e5378087475430ae8330508f8b053cf09521cf4fc9ce",
-    "md5": "e8e75120cf0fd15d3fbbbadcc66a58f8",
+    "size": 15560966,
+    "checksum": "c70c39ec7b59da88b0cd41ab14732c06f1c1bec93a4abeb124dfe03ad97b601a",
+    "md5": "3b31b54ac1ebe5a2c3f0f58775d0722f",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -186,12 +186,12 @@
     "category": "PANEL",
     "fileName": "mock-1.0.jar",
     "downloadUrl": "plugins/mock-1.0.jar",
-    "size": 14713986,
-    "checksum": "86858c537c804baf263a02d2cfae3f5d484a372d772914883e4ec2c43467eb5a",
-    "md5": "bbc420d2dde45ffea698ed72838bd220",
+    "size": 14714022,
+    "checksum": "3f77158cc71ee0b6268a8d6a9f73a955554e5f473b1f26772ed11f23233c2be2",
+    "md5": "aa17241012927a528309c5b55fd42535",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -201,12 +201,12 @@
     "category": "PANEL",
     "fileName": "notes-studio-1.0.jar",
     "downloadUrl": "plugins/notes-studio-1.0.jar",
-    "size": 14713866,
-    "checksum": "bf9e012c94269c81c06610b02bb77507ca6a2ba8465175b7bde8d5f8ba1acacf",
-    "md5": "ffb4ee5dba8afc6dcb80cb9aa0f853df",
+    "size": 14713902,
+    "checksum": "586d3902d65eb7873a7f8111e824b0a013a55e37e0b2087fda9bec384bb7fb7f",
+    "md5": "95e94be8999a70564fe2b7e51ce4aa63",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -216,12 +216,12 @@
     "category": "PANEL",
     "fileName": "notes-workbench-1.0.jar",
     "downloadUrl": "plugins/notes-workbench-1.0.jar",
-    "size": 14693299,
-    "checksum": "1db6ad2184efaee82c3f29f8c563487c85ad483ea65be9bff3f4d5226d44fd8a",
-    "md5": "fe42f00c703bcef1a3290844762115b1",
+    "size": 14693335,
+    "checksum": "999e1255f18e3abf80e46b76b6615a235c9f48470dc198903b6282b862faf34f",
+    "md5": "63e64f81d56bd7e3e71f4c605489a3c6",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -231,12 +231,12 @@
     "category": "POPUP",
     "fileName": "popup-remove-duplicates-1.0.jar",
     "downloadUrl": "plugins/popup-remove-duplicates-1.0.jar",
-    "size": 14682528,
-    "checksum": "917f62f32725459cfc0be0e868b4905e8427884de1fd2cdb72f1bbf526417ee0",
-    "md5": "5793ea96951527c22a0222e407b45d0f",
+    "size": 14682564,
+    "checksum": "c86734ddbb310305e209446df0fa08c6c766d9cdd3e052d5223911c1943faed2",
+    "md5": "704fc5e8712ea3c4254709a0d04f7bfe",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -246,12 +246,12 @@
     "category": "POPUP",
     "fileName": "popup-repeated-lines-table-1.0.jar",
     "downloadUrl": "plugins/popup-repeated-lines-table-1.0.jar",
-    "size": 14686025,
-    "checksum": "4a368eb6e471fd7007cd877b8ce81975b515eb10d324e2a4286497974ccd81bc",
-    "md5": "2fca7c173ab6be23976ad270821fef62",
+    "size": 14686061,
+    "checksum": "78f01270aef14b59869b2d05ef753f6fd746320d01d7c046d5f90b1e0791b9b9",
+    "md5": "b764ae66e3b27c5bcee678df367418ea",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -261,12 +261,12 @@
     "category": "PANEL",
     "fileName": "remote-connections-1.0.jar",
     "downloadUrl": "plugins/remote-connections-1.0.jar",
-    "size": 14726473,
-    "checksum": "ffd881a3827fdbb8ff65e207a65b67e4e5daec695379c076bf8c444d83b9ee03",
-    "md5": "1a0fde394de333a7a6b34f01e0bd8dac",
+    "size": 14726509,
+    "checksum": "4eaef6edbcb680d23f58bf9065268c6e0431c5b5bde58c0b9a4cc206a9617e33",
+    "md5": "e33e5bec69f8d4e3a46f6ad7426c9618",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -276,12 +276,12 @@
     "category": "PANEL",
     "fileName": "sftp-workbench-1.0.jar",
     "downloadUrl": "plugins/sftp-workbench-1.0.jar",
-    "size": 15313029,
-    "checksum": "5807aa355de5f34d80a798207dd55613c5b21910efcf0c2133b11388fb466988",
-    "md5": "0203bfcf59d0198d43fea57444d7950e",
+    "size": 15313065,
+    "checksum": "402741609e2e58c6343233e2e19a8ce3599fc3de77b7cc00466b8bfa37e00088",
+    "md5": "074f9af80f2d3eae9c846269715cec2c",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -291,12 +291,12 @@
     "category": "PANEL",
     "fileName": "soap-client-1.0.jar",
     "downloadUrl": "plugins/soap-client-1.0.jar",
-    "size": 12539091,
-    "checksum": "92dd702faa728e957052824fdf5b32c59dc33180c3c6efcbc5bbba1263374151",
-    "md5": "94f9a9ecc056fe2d60341823461f0e8a",
+    "size": 12539127,
+    "checksum": "b6f6975b661107fa7289dce24793438705218ee8fe678476e0afe3c686a66faa",
+    "md5": "71c734d9959df33bd0c6b43e8a8450d0",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -306,12 +306,12 @@
     "category": "CIPHER",
     "fileName": "triple-des-1.0.jar",
     "downloadUrl": "plugins/triple-des-1.0.jar",
-    "size": 14700711,
-    "checksum": "b9efc9c4cd68583c3a388cccc0941afdda067f8d74f45310be3979dedeef0480",
-    "md5": "338c63e0516d58ed73de2c5b1f323c19",
+    "size": 14700747,
+    "checksum": "6fdc33ad4951f92d25a7c5b4cbfb4b3b3022d1bbce4066ebb97b37c316ab7276",
+    "md5": "12f14e5f0053b1a06985462a13c24903",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -321,12 +321,12 @@
     "category": "WIDGET",
     "fileName": "widget-calculator-1.0.jar",
     "downloadUrl": "plugins/widget-calculator-1.0.jar",
-    "size": 14691455,
-    "checksum": "88cff3bffbc6a54d68064b0e2d77971520f51189f3f4b6a6bc48bad7ffbffa53",
-    "md5": "bc93e89ddcb154809ff974c1f5d33255",
+    "size": 14691491,
+    "checksum": "b31690db5d9a03f7dc7f82a9e23618608d82f06a1e7fcca6525ebf0eb22d9255",
+    "md5": "8d7726f1a8ec9db274954aad11fb50cb",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -336,12 +336,12 @@
     "category": "WIDGET",
     "fileName": "widget-converter-base64-1.0.jar",
     "downloadUrl": "plugins/widget-converter-base64-1.0.jar",
-    "size": 14684653,
-    "checksum": "418051f372fbcd0ee2ea39746794944ed6c28458752b6857918cb21f40037b54",
-    "md5": "8490bbb1aee20577e3d34c92455db162",
+    "size": 14684689,
+    "checksum": "62eb64f66ba9ee3d76ccf4719c9387e81c2c9556fa8cb5ca8f160b22c95df85e",
+    "md5": "ca295cc2704f5d965a229a4e0ba48b0f",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -351,12 +351,12 @@
     "category": "WIDGET",
     "fileName": "widget-data-generator-1.0.jar",
     "downloadUrl": "plugins/widget-data-generator-1.0.jar",
-    "size": 16550757,
-    "checksum": "f53173e95038150014baf924eec8d32067306d69620387c1d0bad381bfef0614",
-    "md5": "bccc078fe4ac2871c2864c1df2d83412",
+    "size": 16550793,
+    "checksum": "d6042c659d04ea3a66f5123b0d6f818bb272371af8c26fd8720a169d9e1d42b9",
+    "md5": "a3d0ceb5f22cd931fce424d53c47b41c",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -366,12 +366,12 @@
     "category": "WIDGET",
     "fileName": "widget-image-ocr-1.0.jar",
     "downloadUrl": "plugins/widget-image-ocr-1.0.jar",
-    "size": 14701714,
-    "checksum": "0d5484919346c9920a95aad4b52ae9a92b2971308fb20207ede911fbe84dcc62",
-    "md5": "b8444b401bb40b37f2370ad55e0b0cc4",
+    "size": 14701750,
+    "checksum": "250f93c6b5412bc4755a8be79811b0975e56417481b42f7a8b8855cef152f7f4",
+    "md5": "6984479b8a5369b073161f8095ee55e6",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:32"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -381,12 +381,12 @@
     "category": "WIDGET",
     "fileName": "widget-qr-generator-1.0.jar",
     "downloadUrl": "plugins/widget-qr-generator-1.0.jar",
-    "size": 16036967,
-    "checksum": "80ce75614b1294db6ce4b1ebb315840176a32c03cff4ff46b734bcbec314b9ff",
-    "md5": "8171e347c1c3840d93b56a4cba21e7dc",
+    "size": 16037003,
+    "checksum": "2a8c4bad15a2070cf43fb77e9c161fa9057bf8db369f2318276aa3a99a5596d7",
+    "md5": "c9369358cb3d101b9e6071774de1f7c1",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:33"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 ,
   {
@@ -396,12 +396,12 @@
     "category": "WIDGET",
     "fileName": "widget-uuid-1.0.jar",
     "downloadUrl": "plugins/widget-uuid-1.0.jar",
-    "size": 14683843,
-    "checksum": "5b5ceb1f31a526b02783cb54d889761c225e31916a515b3d3290d7e502744125",
-    "md5": "9013c1a1342d23f11de8860651c2cba5",
+    "size": 14683879,
+    "checksum": "a15161e73e781b958acfd280eaab1c738c70e49663ce00f58c88c28aee2cd5c1",
+    "md5": "235455bec896abc48bd51b28fc4b740a",
     "minAppVersion": "1.0",
     "author": "DEcrypt Team",
-    "updatedAt": "2026-08-14T16:18:33"
+    "updatedAt": "2026-08-17T16:00:10"
   }
 
 ]
