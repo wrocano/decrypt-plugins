@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.04",
   "fileName": "DEcrypt.jar",
-  "size": 78023136,
-  "checksum": "aaa9d39732e6747e8ad34008953e04fb707839833ea4bb02f2cb7825de3c726b",
-  "releaseDate": "2026-08-17T14:58:35",
-  "releaseNotes": "unificado text preview en dependencia",
+  "size": 78001033,
+  "checksum": "3e4ad2340a85eb58df866431ea5a422027799a8818b468f3a9d30f0722bc5cf7",
+  "releaseDate": "2026-08-18T12:00:40",
+  "releaseNotes": "Fix loading request",
   "minJavaVersion": "11"
 }
