@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "fileName": "DEcrypt.jar",
-  "size": 78001112,
-  "checksum": "7cb69402725379014386cdeadff720d751961c955b825d93b25a2135b692d812",
-  "releaseDate": "2026-08-19T14:50:12",
-  "releaseNotes": "Fix en edicion de url del request",
+  "size": 78328109,
+  "checksum": "4f703ac2b4185792bf7402fc23c45290d6b1338a7fea5fce4ed5e809a42b2979",
+  "releaseDate": "2026-08-29T16:20:41",
+  "releaseNotes": "Mejoras para plugins",
   "minJavaVersion": "11"
 }
