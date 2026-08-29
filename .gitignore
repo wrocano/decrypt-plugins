@@ -1,3 +1,8 @@
 .changed-plugins
 *.tmp
 .DS_Store
+
+# Las claves privadas de firma nunca deben publicarse en el repositorio.
+*.key
+private*.pem
+.signing/

@@ -72,6 +72,9 @@ if [ ! -f "$SCRIPT_DIR/.gitignore" ]; then
 .changed-plugins
 *.tmp
 .DS_Store
+*.key
+private*.pem
+.signing/
 EOF
     echo "  📄 .gitignore creado"
 fi
@@ -87,6 +90,7 @@ Repositorio de distribución de plugins compilados para DEcrypt.
 
 \`\`\`
 ├── registry.json          ← Catálogo auto-generado
+├── registry-signature.json ← Firma detached opcional del catálogo
 ├── plugins/               ← JARs de plugins
 ├── app/                   ← Distribución de la app
 │   ├── app-release.json
@@ -103,6 +107,12 @@ Repositorio de distribución de plugins compilados para DEcrypt.
 | Repo | \`${GH_REPO}\` |
 | Branch | \`${BRANCH}\` |
 | Registry Path | \`registry.json\` |
+| Registry Signature Path | \`registry-signature.json\` |
+
+La firma opcional se activa al ejecutar \`generateRegistry.sh\` con
+\`PLUGIN_SIGNING_PRIVATE_KEY\`, \`PLUGIN_PUBLISHER_ID\`,
+\`PLUGIN_SIGNING_KEY_ID\` y \`PLUGIN_SIGNATURE_ALGORITHM\`. La clave privada
+debe permanecer fuera de este repositorio.
 EOF
     echo "  📄 README.md creado"
 fi
