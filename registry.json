@@ -6,13 +6,15 @@
     "category": "CIPHER",
     "fileName": "aes-cbc-1.0.jar",
     "downloadUrl": "plugins/aes-cbc-1.0.jar",
-    "size": 14780316,
-    "checksum": "4352b1f4e4d1f044e118e915f643216aabf7210289cd229ad4d2bfa2f0bcb7d8",
-    "md5": "cd433039204327a134b19fdd4a2f64a8",
+    "size": 14830952,
+    "checksum": "67caf399e259d150c4fc2d8c4a4965a4744dec7d605e50c15651f85f54bd3238",
+    "md5": "8ff3af3f734c3066d7f7d19116c91224",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -22,9 +24,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:25"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:16"
+  },
   {
     "id": "aes-gcm",
     "name": "AES/GCM/Nopadding",
@@ -32,13 +33,15 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14774507,
-    "checksum": "cbe32ec1e655487dae78c383f85fcea90cfdd7aa9b7841e8afcde3203e7cbb73",
-    "md5": "544d568fb8ac1a2d901d45d00df91177",
+    "size": 14825143,
+    "checksum": "f1b2e9cd5e85c7783114f89c25fbeac3a97f5cb3762a8d62623a83cba7b0d402",
+    "md5": "46363360bdbea0789500206388a5df29",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -48,9 +51,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:25"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:22"
+  },
   {
     "id": "aes-gcm-canales",
     "name": "AES/GCM/Nopadding - Canales",
@@ -58,13 +60,15 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-canales-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
-    "size": 14774271,
-    "checksum": "5f487528d31b4094abc959feff781c9e4ab2b3eca4b14d42ee3cf18ececbceea",
-    "md5": "d479080bd8840d700f3655305a9fc947",
+    "size": 14824907,
+    "checksum": "916412fb6321db5ce9d1d7515b1daeb14db5c6f8ad368a91d92d2a2ec0ad422f",
+    "md5": "9fd7c032fb30316cc20a9e972225e528",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -74,9 +78,65 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:25"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:19"
+  },
+  {
+    "id": "asyncapi-contract-studio",
+    "name": "AsyncAPI Contract Studio",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "asyncapi-contract-studio-1.0.0.jar",
+    "downloadUrl": "plugins/asyncapi-contract-studio-1.0.0.jar",
+    "size": 2728022,
+    "checksum": "35e9af7a74718b7221c36cd97b17cf9bfa159a6ebf4b53287e07ff2525f49ae1",
+    "md5": "0ce3e79d75735b330131a448426550d7",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "FILESYSTEM"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-09-12T13:56:38"
+  },
+  {
+    "id": "automation-flow-studio",
+    "name": "Automation Flow Studio",
+    "version": "1.2.0",
+    "category": "PANEL",
+    "fileName": "automation-flow-studio-1.2.0.jar",
+    "downloadUrl": "plugins/automation-flow-studio-1.2.0.jar",
+    "size": 370314,
+    "checksum": "dd317ea2490abea7578c68d78805f04f49e18cb008ad862bce31a30652870117",
+    "md5": "324c3556d91b5c72932fb7c02e1f2aca",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "DATABASE",
+      "SECRETS"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-09-12T13:56:11"
+  },
   {
     "id": "certificate-keystore-workbench",
     "name": "Certificate & Keystore Workbench",
@@ -90,7 +150,12 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -101,8 +166,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:24"
-  }
-,
+  },
   {
     "id": "clipboard-history",
     "name": "Historial Clipboard",
@@ -110,13 +174,16 @@
     "category": "PANEL",
     "fileName": "clipboard-history-1.0.jar",
     "downloadUrl": "plugins/clipboard-history-1.0.jar",
-    "size": 14735814,
-    "checksum": "21931aa480225c5985aec1ef3d85d00152916a36d4aadd829d0a13a9bdadb409",
-    "md5": "2cf367aec665a0fac901ce33c93a4a84",
+    "size": 284448,
+    "checksum": "46887f501b66a2eed16b3a737f8b994a7045aa06b2c6280ba50d8969cfb4bc79",
+    "md5": "2e6fb52d08bde91a6831328b6763216c",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -126,9 +193,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:26"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:49"
+  },
   {
     "id": "codex-chatgpt-studio",
     "name": "Codex ChatGPT Studio",
@@ -136,13 +202,18 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 531286,
-    "checksum": "06d48e0bae9fe35ba0653aa25ee5a4229d7ea917d6b3a6783d03ec512f5d3ca1",
-    "md5": "2e3ba00482a3c1fb414402b1f8c26b4e",
+    "size": 639201,
+    "checksum": "fd72ac9039d3d0d887d5041686a0ae9bcc101a7caf59e67832692b2219b2698b",
+    "md5": "e580bd6b3fc9626e9f025aace6691d85",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "PROCESS_EXECUTION", "CLIPBOARD"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -152,9 +223,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:26"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:40"
+  },
   {
     "id": "database-workbench-1.0",
     "name": "database-workbench-1.0",
@@ -179,8 +249,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-18T05:46:44"
-  }
-,
+  },
   {
     "id": "database-workbench",
     "name": "BD Workbench",
@@ -188,13 +257,19 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 29869735,
-    "checksum": "65438093b0ed58f2f257281bf0fbd83510564c4fe970dc987aecd4c357987d39",
-    "md5": "78b414008ef60054dba4d1593d8925ce",
+    "size": 30010840,
+    "checksum": "60edc692a578952193df27e18c35c4acd6e1a834a70562dc08cb89e5ea4ca63c",
+    "md5": "e970d9d7f19986f285b4b673b213f5e3",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "DATABASE", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "DATABASE",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -204,9 +279,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:26"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:32"
+  },
   {
     "id": "evidence-report-composer",
     "name": "Evidence & Report Composer",
@@ -220,7 +294,10 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "SECRETS"],
+    "capabilities": [
+      "FILESYSTEM",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -231,8 +308,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:27"
-  }
-,
+  },
   {
     "id": "fitbank-des",
     "name": "Fitbank DES",
@@ -240,13 +316,15 @@
     "category": "CIPHER",
     "fileName": "fitbank-des-1.0.jar",
     "downloadUrl": "plugins/fitbank-des-1.0.jar",
-    "size": 14755596,
-    "checksum": "1e17fefc27645234b45a7605d58449e87bf9ec4e2a4a7ffac3635bc5e474e262",
-    "md5": "ce64fa4158cb3feb916073cfbe3a39ef",
+    "size": 14796166,
+    "checksum": "476f2969ca93d2183f6b9f4125e9bdac927af8edbf3d44d0b8cabe96dd438d4a",
+    "md5": "c853d1fc01e3570b75355990c8b74f9a",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -256,9 +334,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:25"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:17"
+  },
   {
     "id": "git-client",
     "name": "Git Client",
@@ -266,13 +343,18 @@
     "category": "PANEL",
     "fileName": "git-client-1.0.jar",
     "downloadUrl": "plugins/git-client-1.0.jar",
-    "size": 21134055,
-    "checksum": "d3290f939aae8a7b5e7265c03f135503b9984bde6fb1baed51322d44d63d1949",
-    "md5": "c68917e05a7f8be7c5521c42a9a7bb34",
+    "size": 6429110,
+    "checksum": "cf828c8eacf4ef89504da2f28967d28f8a2bd8c88b58bfee576464606b9af4dd",
+    "md5": "7750a7cfedee791aa5f68119e9b2812b",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "PROCESS_EXECUTION", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -282,9 +364,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:27"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:40"
+  },
   {
     "id": "graphql-workbench",
     "name": "GraphQL Workbench",
@@ -298,7 +379,12 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -309,8 +395,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:27"
-  }
-,
+  },
   {
     "id": "grpc-workbench",
     "name": "gRPC Workbench",
@@ -324,7 +409,12 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -335,8 +425,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:27"
-  }
-,
+  },
   {
     "id": "interop-probe-consumer",
     "name": "Interop Probe Consumer",
@@ -361,8 +450,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:28"
-  }
-,
+  },
   {
     "id": "interop-probe-provider",
     "name": "Interop Probe Provider",
@@ -387,8 +475,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:28"
-  }
-,
+  },
   {
     "id": "isolation-broker-probe",
     "name": "Isolation Broker Probe",
@@ -402,7 +489,10 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM"
+    ],
     "executionMode": "ISOLATED_HEADLESS",
     "isolatedEntrypoint": "com.processor.isolation.BrokerProbeTask",
     "isolationBrokerVersion": "2",
@@ -413,8 +503,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:28"
-  }
-,
+  },
   {
     "id": "isolation-echo",
     "name": "Isolation Echo Pilot",
@@ -439,8 +528,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:28"
-  }
-,
+  },
   {
     "id": "jar-explorer",
     "name": "Jar Explorer",
@@ -448,13 +536,16 @@
     "category": "PANEL",
     "fileName": "jar-explorer-1.0.jar",
     "downloadUrl": "plugins/jar-explorer-1.0.jar",
-    "size": 16967714,
-    "checksum": "7672d5dd3b5b3e2722d47f8a0d1f1959281adfb627ea2b58b7cee9a48d57c567",
-    "md5": "315b28c0f9063a3a81a2c3b76dd53626",
+    "size": 2198902,
+    "checksum": "23c1be7f72923930af55cae1891f419ac8011d8a25fe253c780e1adabbc93b26",
+    "md5": "132775dee21d9acd582cd216489e9157",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "PROCESS_EXECUTION"],
+    "capabilities": [
+      "FILESYSTEM",
+      "PROCESS_EXECUTION"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -464,9 +555,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:28"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:08"
+  },
   {
     "id": "jcoder",
     "name": "JCoder",
@@ -474,13 +564,17 @@
     "category": "PANEL",
     "fileName": "jcoder-1.0.jar",
     "downloadUrl": "plugins/jcoder-1.0.jar",
-    "size": 14789276,
-    "checksum": "15e2efb743afff3f4ade30df4a9d9774e29ce0bcb9226fd4c7b9c255ea7edf55",
-    "md5": "866c24e8d36cdd6078c7b70528a257b1",
+    "size": 20255,
+    "checksum": "90555c3db62e7c01a0051ccaddac4a0c2a72edff208066a14c57ba0bd71255f8",
+    "md5": "0bc1f65c2b087626cd604333c039ad39",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "PROCESS_EXECUTION", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -490,9 +584,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:29"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:14"
+  },
   {
     "id": "jwt-toolbox",
     "name": "JWT, JWK & PKCE Toolbox",
@@ -506,7 +599,12 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -517,8 +615,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:29"
-  }
-,
+  },
   {
     "id": "kafka-workbench",
     "name": "Kafka Workbench",
@@ -526,13 +623,18 @@
     "category": "PANEL",
     "fileName": "kafka-workbench-1.0.0.jar",
     "downloadUrl": "plugins/kafka-workbench-1.0.0.jar",
-    "size": 20839440,
-    "checksum": "2470350d48ece594edba93b686dbaca040fa2a71c0106f424424bd02a6f03bc0",
-    "md5": "5c252b4ec2398706004e280a9349f975",
+    "size": 20841590,
+    "checksum": "d7f7d27a6b7e0934f3549c01ef71e3bb84827985698456b081711d7732a0b390",
+    "md5": "500996b90b7be4a01dc5ff96a69a4fc3",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -542,9 +644,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:29"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:43"
+  },
   {
     "id": "load-chaos-studio",
     "name": "Load & Chaos Studio",
@@ -558,7 +659,11 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -569,8 +674,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:30"
-  }
-,
+  },
   {
     "id": "log-tracker",
     "name": "Log Tracker",
@@ -578,13 +682,16 @@
     "category": "PANEL",
     "fileName": "log-tracker-1.0.jar",
     "downloadUrl": "plugins/log-tracker-1.0.jar",
-    "size": 4599080,
-    "checksum": "a0d034dc0a69b844f34b02a36fe5c66b7657c1eb2c7bdcd549d0bd10ddcf29dd",
-    "md5": "67c570224c1afca91879c41bd2a377d4",
+    "size": 4598024,
+    "checksum": "e6445ce806b2d406dad50650572267893da7628341a5a173a2afb5cb7ec3a561",
+    "md5": "c031e7d1764d038e5ff3c9a3e012cd86",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -594,9 +701,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:30"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:07"
+  },
   {
     "id": "meld-diff-1.0",
     "name": "meld-diff-1.0",
@@ -621,8 +727,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-15T07:47:53"
-  }
-,
+  },
   {
     "id": "mermaid-editor",
     "name": "Mermaid Editor",
@@ -630,13 +735,15 @@
     "category": "PANEL",
     "fileName": "mermaid-editor-1.0.jar",
     "downloadUrl": "plugins/mermaid-editor-1.0.jar",
-    "size": 863256,
-    "checksum": "14540dbba04dd561e4b7d60954b2460ffa13b5048f203869aceab190cd63e492",
-    "md5": "d4909ca2873c975bb96bf77c38caa86e",
+    "size": 867449,
+    "checksum": "884c5cb05cd76384011422f8aab93432e2269b5bbc0e912cfa0cc2bb37b24953",
+    "md5": "fec9753cf7b29ab162961deae878379e",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["CLIPBOARD"],
+    "capabilities": [
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -646,9 +753,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:30"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:11"
+  },
   {
     "id": "mock-1.0",
     "name": "mock-1.0",
@@ -673,8 +779,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-18T05:46:45"
-  }
-,
+  },
   {
     "id": "mock",
     "name": "Mock Studio Pro",
@@ -682,13 +787,17 @@
     "category": "PANEL",
     "fileName": "mock-2.0.0.jar",
     "downloadUrl": "plugins/mock-2.0.0.jar",
-    "size": 398524,
-    "checksum": "c4fea5229aa9ff4b73622387ac53e0709d5f5177efe9a09ce5e2fdd14d70df53",
-    "md5": "2ffd23a7f65a2e2fee6bdaff68df0ae3",
+    "size": 826787,
+    "checksum": "286e03a7f8b341b391a4390d4cfe5bcd7f6d2336a803b15ffc9ec8c49e47d911",
+    "md5": "d2c2a0d11818c2aa21d1cdd1a9ec0b3c",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -698,9 +807,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:30"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:12"
+  },
   {
     "id": "mqtt-workbench",
     "name": "MQTT Workbench",
@@ -708,13 +816,18 @@
     "category": "PANEL",
     "fileName": "mqtt-workbench-1.0.0.jar",
     "downloadUrl": "plugins/mqtt-workbench-1.0.0.jar",
-    "size": 6506427,
-    "checksum": "e55ade8ff58cb2e0e0d3142a11f6ac9498a9b0c5a0ccfa19f6abed7c6324c8e6",
-    "md5": "fa33bb8e434c57912688464097ac16e9",
+    "size": 6508341,
+    "checksum": "5e7b98d36e693ab00df426df754b9a3342081c5c310c4fac8626a5ee8df7d1de",
+    "md5": "9ed5cdce3810bcaa0cae5fa1678b5a9d",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -724,9 +837,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:30"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:34"
+  },
   {
     "id": "notes-studio",
     "name": "Notes Studio",
@@ -734,13 +846,17 @@
     "category": "PANEL",
     "fileName": "notes-studio-1.0.jar",
     "downloadUrl": "plugins/notes-studio-1.0.jar",
-    "size": 65365,
-    "checksum": "ad89a50459ce5d9a4186b633c1de159bf6180b98596f44cf374b44d71acee2fd",
-    "md5": "6d2b9f1b61775d29bbe22f05d7cc4489",
+    "size": 64284,
+    "checksum": "257347a977e1f7818871ece3ee8498c967b9288ae9c1d278c3d9ec09ebec16fc",
+    "md5": "d17fab91b06375dc73c467d7a0a59c5b",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -750,9 +866,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:31"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:23"
+  },
   {
     "id": "notes-workbench",
     "name": "Notas",
@@ -760,13 +875,17 @@
     "category": "PANEL",
     "fileName": "notes-workbench-1.0.jar",
     "downloadUrl": "plugins/notes-workbench-1.0.jar",
-    "size": 14766088,
-    "checksum": "d24910bed2ed8cfd278d6a646dc3c9b349fcc6e9d6bfe3fb009e52fa33efcfdd",
-    "md5": "1341f774765eb4904095771e7e7245ef",
+    "size": 295402,
+    "checksum": "2d44edf901918a613ffe418053e7862cb0a52f4dc5ca9cdc644ca6e29bd4441c",
+    "md5": "0655f59688cd689ac245b4155c8a5a19",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "CLIPBOARD", "DATABASE"],
+    "capabilities": [
+      "NETWORK",
+      "CLIPBOARD",
+      "DATABASE"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -776,9 +895,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:31"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:26"
+  },
   {
     "id": "observability-center",
     "name": "Observability Center",
@@ -786,13 +904,17 @@
     "category": "PANEL",
     "fileName": "observability-center-1.0.0.jar",
     "downloadUrl": "plugins/observability-center-1.0.0.jar",
-    "size": 362980,
-    "checksum": "006889f92565486f5d5a9bf9c19a4cf34df1da2e1406a67aa84d87cb80fc9a75",
-    "md5": "09cf0e928c4d2158fabfdf2dfd929958",
+    "size": 362857,
+    "checksum": "da7de5dfa7cd2939b5e03a2ec12d14366d1d2a2e4629cb0bd31680a887212888",
+    "md5": "fedcc3197ad2a91be50e0c79ccc09e45",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -802,9 +924,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:31"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:11"
+  },
   {
     "id": "openai-assistant-studio",
     "name": "OpenAI Assistant Studio",
@@ -818,7 +939,13 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS", "PROCESS_EXECUTION"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS",
+      "PROCESS_EXECUTION"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -829,8 +956,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:31"
-  }
-,
+  },
   {
     "id": "openapi-contract-studio",
     "name": "OpenAPI Contract Studio",
@@ -838,13 +964,15 @@
     "category": "PANEL",
     "fileName": "openapi-contract-studio-1.1.0.jar",
     "downloadUrl": "plugins/openapi-contract-studio-1.1.0.jar",
-    "size": 4979815,
-    "checksum": "f135c3bed3c73279389c81f717a434ce28cb67abf0340a0d41ca51da2370df94",
-    "md5": "3f55282fe50b8619cff17951ef5f8bc7",
+    "size": 4998877,
+    "checksum": "17ce902d8865e8f335086f14493b35764c41157d0c9270b097d2e49804fd8e33",
+    "md5": "ed5e54aa78d9a8c7ed5433c061ccb796",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM"],
+    "capabilities": [
+      "FILESYSTEM"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -854,9 +982,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:32"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:13"
+  },
   {
     "id": "pdf",
     "name": "PDF",
@@ -864,13 +991,16 @@
     "category": "PANEL",
     "fileName": "pdf-1.0.jar",
     "downloadUrl": "plugins/pdf-1.0.jar",
-    "size": 4557523,
-    "checksum": "6b18bde3aaf40e3d6e0e3b26004c4b939cbf6b9627ee4b5ea6dc0bc604a4ee14",
-    "md5": "c8effb7a20c1ddce372ab7ef8ad8cbdc",
+    "size": 4556351,
+    "checksum": "83da17f42c30239c68d749366791666e01f327acc04956df98db5a0bb0097d36",
+    "md5": "d034e113e84369c8564f7fb02ff233a2",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -880,9 +1010,35 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:32"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:23"
+  },
+  {
+    "id": "plugin-diagnostics-center",
+    "name": "Plugin Diagnostics Center",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "plugin-diagnostics-center-1.0.0.jar",
+    "downloadUrl": "plugins/plugin-diagnostics-center-1.0.0.jar",
+    "size": 22345,
+    "checksum": "19575e01ffc35930bfaee4db6b6277429fb94123f7ae2bd8713a70359c62228c",
+    "md5": "7cdec72802ba8468359f7b0242f153ae",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "FILESYSTEM"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-09-12T13:56:43"
+  },
   {
     "id": "popup-remove-duplicates",
     "name": "Eliminar repetidos",
@@ -907,8 +1063,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:32"
-  }
-,
+  },
   {
     "id": "popup-repeated-lines-table",
     "name": "Lineas repetidas",
@@ -933,8 +1088,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:32"
-  }
-,
+  },
   {
     "id": "popup-secrets-pii-scanner",
     "name": "Analizar secretos y PII",
@@ -948,7 +1102,9 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -959,8 +1115,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:33"
-  }
-,
+  },
   {
     "id": "rabbitmq-workbench",
     "name": "RabbitMQ Workbench",
@@ -968,13 +1123,18 @@
     "category": "PANEL",
     "fileName": "rabbitmq-workbench-1.0.0.jar",
     "downloadUrl": "plugins/rabbitmq-workbench-1.0.0.jar",
-    "size": 3583372,
-    "checksum": "57c413fb2ae62bd92b8609ee06ee2a863ece89e7c801ff33d09f23bb00596860",
-    "md5": "b32391104b05b3064a1a5b8e0044d4ce",
+    "size": 3585978,
+    "checksum": "3bd866433ce6e12a2e28b61195eb8b2030fa6ac7bd59db2c0d94b11ac5264aec",
+    "md5": "60765fc093a9558e36c87256908426d6",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -984,9 +1144,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:33"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:48"
+  },
   {
     "id": "redis-workbench",
     "name": "Redis Workbench",
@@ -1000,7 +1159,12 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1011,8 +1175,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:33"
-  }
-,
+  },
   {
     "id": "remote-connections",
     "name": "Remote Connections",
@@ -1020,13 +1183,19 @@
     "category": "PANEL",
     "fileName": "remote-connections-1.0.jar",
     "downloadUrl": "plugins/remote-connections-1.0.jar",
-    "size": 32925,
-    "checksum": "8ed722b6c0dde6eb138aa1355da4b15753656310fd29160c22c5335d720a086b",
-    "md5": "17cfce0d502bab0c77337e79006bbcf7",
+    "size": 31583,
+    "checksum": "be36e5b725517fd5b7d3729c0629f8bcd41d2eceb1003b9009664f90e0b0209a",
+    "md5": "5a66dd7e8c7d68bc11bebe6c9d7df3b5",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "PROCESS_EXECUTION", "CLIPBOARD", "DATABASE", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "PROCESS_EXECUTION",
+      "CLIPBOARD",
+      "DATABASE",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1036,9 +1205,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:33"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:49"
+  },
   {
     "id": "secrets-pii-scanner",
     "name": "Secrets & PII Scanner",
@@ -1052,7 +1220,10 @@
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "SECRETS"],
+    "capabilities": [
+      "FILESYSTEM",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1063,8 +1234,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-29T16:14:34"
-  }
-,
+  },
   {
     "id": "sftp-workbench",
     "name": "SFTP Workbench",
@@ -1072,13 +1242,19 @@
     "category": "PANEL",
     "fileName": "sftp-workbench-1.0.jar",
     "downloadUrl": "plugins/sftp-workbench-1.0.jar",
-    "size": 1112233,
-    "checksum": "2aeb58de1e8ed1cf5690cef5e0fd0dd5ff691ec7c07dce1c0ffe39513ce20ee4",
-    "md5": "36a003d0bb629002ab13d701b3bc5b6a",
+    "size": 1114101,
+    "checksum": "521d90402d732e3b26f68733a1e1178a3c464c19982fe54d710a40d06d8e8d0a",
+    "md5": "e946606a72eb2ba679a4f3e9c7b0d52b",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "DATABASE", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "DATABASE",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1088,9 +1264,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:34"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:27"
+  },
   {
     "id": "soap-client",
     "name": "SOAP",
@@ -1098,13 +1273,19 @@
     "category": "PANEL",
     "fileName": "soap-client-1.0.jar",
     "downloadUrl": "plugins/soap-client-1.0.jar",
-    "size": 12611915,
-    "checksum": "f32ad5c6dab57c3722bb46d260d8d5fd9cd6126f295a4bc2f3404bd4c7a0f040",
-    "md5": "5aca3e5a953e57458a77ec04a9afb9ce",
+    "size": 9822229,
+    "checksum": "d78e90359adc820a4deb6475a002aabb7bda7c694875442d97d2f2e3f15b1b13",
+    "md5": "a05649cc68d16002089c1abc2c1a9efb",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["NETWORK", "FILESYSTEM", "CLIPBOARD", "DATABASE", "SECRETS"],
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "CLIPBOARD",
+      "DATABASE",
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1114,9 +1295,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:34"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:25"
+  },
   {
     "id": "triple-des",
     "name": "TripleDES",
@@ -1124,13 +1304,15 @@
     "category": "CIPHER",
     "fileName": "triple-des-1.0.jar",
     "downloadUrl": "plugins/triple-des-1.0.jar",
-    "size": 14773397,
-    "checksum": "81388ac6ff9cf95eeded3bdd924a7b4dfaea6bed0aec7c4fa6b263910e06f315",
-    "md5": "2cbca4adc3129643aea5830a055c57f0",
+    "size": 14824033,
+    "checksum": "75ba67ed6750c6484b42b3de9106ca0be7528da7e21037ff776a2371e70f4e3c",
+    "md5": "92fefb3351b07fd4adf6a39555330282",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["SECRETS"],
+    "capabilities": [
+      "SECRETS"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1140,9 +1322,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:26"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:20"
+  },
   {
     "id": "widget-calculator",
     "name": "Calculadora",
@@ -1150,13 +1331,15 @@
     "category": "WIDGET",
     "fileName": "widget-calculator-1.0.jar",
     "downloadUrl": "plugins/widget-calculator-1.0.jar",
-    "size": 14764094,
-    "checksum": "bed3bc4cb39cd7e24b5b007eba9aa574f7ec17d4c8f1bd42eaee475068524ea9",
-    "md5": "9420642ef1171ee6ec7743fdb71c5cb2",
+    "size": 13889,
+    "checksum": "78ff424f37e09485cf4776059e4b06a91e321a62a5d1a4b16b60af9fa104ec26",
+    "md5": "81cdc52b9ca501998a72f3b2e191c2f1",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["CLIPBOARD"],
+    "capabilities": [
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1166,9 +1349,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:34"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:46"
+  },
   {
     "id": "widget-converter-base64",
     "name": "Conversor Base64",
@@ -1176,13 +1358,15 @@
     "category": "WIDGET",
     "fileName": "widget-converter-base64-1.0.jar",
     "downloadUrl": "plugins/widget-converter-base64-1.0.jar",
-    "size": 14757300,
-    "checksum": "9ff8f9ed474aaf2a4f4a454d13b1b00c079035c93af1108e2a7c3ebdfacf74b5",
-    "md5": "5aadd1eb4161d0ea71c68f65d47598d4",
+    "size": 6887,
+    "checksum": "06172ab2fbe856b2c0cf27f82454f427b79daca8d02a82e140ad2c97b407d066",
+    "md5": "7c91a3450fd38280bbbadef85fee4151",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["CLIPBOARD"],
+    "capabilities": [
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1192,9 +1376,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:35"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:44"
+  },
   {
     "id": "widget-data-generator-1.0",
     "name": "widget-data-generator-1.0",
@@ -1219,8 +1402,7 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-08-18T05:46:45"
-  }
-,
+  },
   {
     "id": "widget-data-generator",
     "name": "Data Generator",
@@ -1228,13 +1410,16 @@
     "category": "WIDGET",
     "fileName": "widget-data-generator-1.1.1.jar",
     "downloadUrl": "plugins/widget-data-generator-1.1.1.jar",
-    "size": 2558341,
-    "checksum": "50b305d5bbf4522f26583f949ffa1533cca32c10c9aff2de8d7a3c527794cb88",
-    "md5": "4cad51d4cc3333f7bb49e347af8ec624",
+    "size": 2558808,
+    "checksum": "41bffe53e33d6ce28efaf80f0802c769a6c2ba0f62b7dbc6bc2926b19fcbcbae",
+    "md5": "33e7dd72ebaaf1f01840c569f239aa74",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1244,9 +1429,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:35"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:46"
+  },
   {
     "id": "widget-image-ocr",
     "name": "OCR Imagen",
@@ -1254,13 +1438,17 @@
     "category": "WIDGET",
     "fileName": "widget-image-ocr-1.0.jar",
     "downloadUrl": "plugins/widget-image-ocr-1.0.jar",
-    "size": 14774418,
-    "checksum": "3495f840fbcb2cd07d9dd01d94e7d26cfef0ae166b58d96106d942563f7561ac",
-    "md5": "1072c546e9d6d2637a17ec90646a2289",
+    "size": 19571,
+    "checksum": "a7ae46ec25cad35a56cc2bf4bbe1c794ad223017daed6d8aa47e6938a501ebb6",
+    "md5": "17cc41d77c51a723bef951d7bd3208ac",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "PROCESS_EXECUTION", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1270,9 +1458,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:35"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:43"
+  },
   {
     "id": "widget-qr-generator",
     "name": "Generador QR",
@@ -1280,13 +1467,16 @@
     "category": "WIDGET",
     "fileName": "widget-qr-generator-1.0.jar",
     "downloadUrl": "plugins/widget-qr-generator-1.0.jar",
-    "size": 16109634,
-    "checksum": "26e1a7d1b680a61f1295b7a485cd52ec6e4bb9b407025376f2c3731c5396d7ea",
-    "md5": "a34bd9a97a6c3995749fa93830c2d7a0",
+    "size": 1360479,
+    "checksum": "bd99221a1bba48c5e0e557498ea6a8b513fa1bf71c00d2d3e36947ef959ed129",
+    "md5": "0122e06ac5bff420cd3130bce58b8630",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["FILESYSTEM", "CLIPBOARD"],
+    "capabilities": [
+      "FILESYSTEM",
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1296,9 +1486,8 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:36"
-  }
-,
+    "updatedAt": "2026-09-12T13:56:45"
+  },
   {
     "id": "widget-uuid",
     "name": "Generador UUID",
@@ -1306,13 +1495,15 @@
     "category": "WIDGET",
     "fileName": "widget-uuid-1.0.jar",
     "downloadUrl": "plugins/widget-uuid-1.0.jar",
-    "size": 14756487,
-    "checksum": "633232fd2ea3cdb2c247856803b75b32ad46c9cea6606695b4e35fbe3610c918",
-    "md5": "ace0a41281feb5e87f681276fff7aa82",
+    "size": 6088,
+    "checksum": "c6cdb08c19d8705d74c1a366b5757f221581f20164c542cd6d012cb2bf811919",
+    "md5": "95b54300f77d1b8fcda00d0d9d6b006f",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
-    "capabilities": ["CLIPBOARD"],
+    "capabilities": [
+      "CLIPBOARD"
+    ],
     "executionMode": null,
     "isolatedEntrypoint": null,
     "isolationBrokerVersion": null,
@@ -1322,7 +1513,6 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-08-29T16:14:36"
+    "updatedAt": "2026-09-12T13:56:47"
   }
-
 ]
