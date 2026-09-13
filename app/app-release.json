@@ -1,9 +1,9 @@
 {
   "version": "1.0.8",
   "fileName": "DEcrypt.jar",
-  "size": 78458695,
-  "checksum": "7b735191d8ea78beae070e80415d4ab5fcabc939a9a7e59e122ad550f816ed5c",
-  "releaseDate": "2026-09-12T20:46:45",
+  "size": 78834521,
+  "checksum": "6f2a319c20b94aa884495df168776dc35b89df927307b430d69524ac619cd4ed",
+  "releaseDate": "2026-09-12T21:47:46",
   "releaseNotes": "Mejoras en procesamiento de json y plugins",
   "minJavaVersion": "11"
 }
