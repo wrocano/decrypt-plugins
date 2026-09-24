@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "fileName": "DEcrypt.jar",
-  "size": 78834521,
-  "checksum": "6f2a319c20b94aa884495df168776dc35b89df927307b430d69524ac619cd4ed",
-  "releaseNotes": "Mejoras en procesamiento de json y plugins",
+  "size": 78510553,
+  "checksum": "3d3d7b27f8bf1dd688654005277d3af49c4dc7cc50c170a846ab697a6a41323e",
+  "releaseNotes": "separacion de plugins del entorno principal",
   "minJavaVersion": "11",
-  "releaseDate": "2026-09-13T14:57:56"
+  "releaseDate": "2026-09-24T16:05:52"
 }
