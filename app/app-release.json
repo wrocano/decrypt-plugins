@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "fileName": "DEcrypt.jar",
-  "size": 78513064,
-  "checksum": "09b002eaff3baa76335ed698a47b9187d54c435db8e9f3a14e7725bd4a92e217",
-  "releaseNotes": "Mejoras en dialogo de procesamiento de tablas",
+  "size": 78513030,
+  "checksum": "173a5c6b2b5e8d5595fbc9c57fdcd897f335f641cd3be0e26f90ee79609607f9",
+  "releaseNotes": "Quitado columna Linea de tablas",
   "minJavaVersion": "11",
-  "releaseDate": "2026-09-25T15:31:47"
+  "releaseDate": "2026-09-25T16:20:11"
 }
