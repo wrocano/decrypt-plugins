@@ -232,9 +232,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30026988,
-    "checksum": "3a063759f954a1913b40c63d258103d6171ca51dc86dd1cfc506ac12ab645ee4",
-    "md5": "181453d0221f4dc017769c5cb243e071",
+    "size": 30029705,
+    "checksum": "078682a5523ce946f6771faaf608d346ddb3729599a519e799eca060a0d98f90",
+    "md5": "bc665774e740be5fdb9c93d323dc90b3",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -254,7 +254,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-24T15:56:37"
+    "updatedAt": "2026-09-25T15:30:24"
   },
   {
     "id": "evidence-report-composer",
