@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "fileName": "DEcrypt.jar",
-  "size": 78510553,
-  "checksum": "3d3d7b27f8bf1dd688654005277d3af49c4dc7cc50c170a846ab697a6a41323e",
-  "releaseNotes": "separacion de plugins del entorno principal",
+  "size": 78513064,
+  "checksum": "09b002eaff3baa76335ed698a47b9187d54c435db8e9f3a14e7725bd4a92e217",
+  "releaseNotes": "Mejoras en dialogo de procesamiento de tablas",
   "minJavaVersion": "11",
-  "releaseDate": "2026-09-24T16:05:52"
+  "releaseDate": "2026-09-25T15:31:47"
 }
