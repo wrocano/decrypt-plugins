@@ -4,9 +4,9 @@ b3dd750028b20a5d040ba2c068fe399c  aes-cbc-1.0.jar
 0ce3e79d75735b330131a448426550d7  asyncapi-contract-studio-1.0.0.jar
 324c3556d91b5c72932fb7c02e1f2aca  automation-flow-studio-1.2.0.jar
 97d2610d8285b82da73c361ca3d5b83d  certificate-keystore-workbench-1.0.0.jar
-2e6fb52d08bde91a6831328b6763216c  clipboard-history-1.0.jar
-43ec9abaa59cabed95df07afdec80f9e  codex-chatgpt-studio-1.0.0.jar
-bc665774e740be5fdb9c93d323dc90b3  database-workbench-1.1.0.jar
+6967d0ff74d9a4ae103e9a0216b006d0  clipboard-history-1.0.jar
+b9f09f25f7d77dfa8f4e73b0988531ce  codex-chatgpt-studio-1.0.0.jar
+7e5288e10f8f9cc1d3c0475e3334cf2a  database-workbench-1.1.0.jar
 bd8a0f9c10d648db93107a763886d136  evidence-report-composer-1.1.0.jar
 046959c2bdc5c30f7d9968510156197d  fitbank-des-1.0.jar
 7750a7cfedee791aa5f68119e9b2812b  git-client-1.0.jar
@@ -30,7 +30,7 @@ d17fab91b06375dc73c467d7a0a59c5b  notes-studio-1.0.jar
 fce11ec210300e6162ea7e01a52a4f5a  observability-center-1.1.0.jar
 7b1e567bac5c9e67dc605bf8c549fdd5  openai-assistant-studio-1.0.0.jar
 ed5e54aa78d9a8c7ed5433c061ccb796  openapi-contract-studio-1.1.0.jar
-5f46e456369e7ffe8e7a1a0b564c08bc  pdf-1.0.jar
+cb6d4cd07d64a859a1c88c6c28f0dbab  pdf-1.0.jar
 7cdec72802ba8468359f7b0242f153ae  plugin-diagnostics-center-1.0.0.jar
 379ba51dbc53e2ad50ffb30abb5b5f31  popup-remove-duplicates-1.0.jar
 f04ccddf008af391516f418afb25c846  popup-repeated-lines-table-1.0.jar

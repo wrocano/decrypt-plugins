@@ -171,12 +171,12 @@
     "id": "clipboard-history",
     "name": "Historial Clipboard",
     "version": "1.0",
-    "category": "PANEL",
+    "category": "WIDGET",
     "fileName": "clipboard-history-1.0.jar",
     "downloadUrl": "plugins/clipboard-history-1.0.jar",
-    "size": 284448,
-    "checksum": "46887f501b66a2eed16b3a737f8b994a7045aa06b2c6280ba50d8969cfb4bc79",
-    "md5": "2e6fb52d08bde91a6831328b6763216c",
+    "size": 288663,
+    "checksum": "475385379d27439eaa3a862b01881d44fa643c6e5609461ab0f45232e7dbd463",
+    "md5": "6967d0ff74d9a4ae103e9a0216b006d0",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -193,7 +193,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-12T13:56:49"
+    "updatedAt": "2026-10-01T12:13:41"
   },
   {
     "id": "codex-chatgpt-studio",
@@ -202,9 +202,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 652055,
-    "checksum": "f0a0463d47f302a487865a6039383d47302176f08224854450277edd7b553cce",
-    "md5": "43ec9abaa59cabed95df07afdec80f9e",
+    "size": 676175,
+    "checksum": "be64ba98c19359adf4766852863804afee62d8580ae2ecff1479bce2911732cd",
+    "md5": "b9f09f25f7d77dfa8f4e73b0988531ce",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -223,7 +223,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:48"
+    "updatedAt": "2026-10-01T12:13:40"
   },
   {
     "id": "database-workbench",
@@ -232,9 +232,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30029705,
-    "checksum": "078682a5523ce946f6771faaf608d346ddb3729599a519e799eca060a0d98f90",
-    "md5": "bc665774e740be5fdb9c93d323dc90b3",
+    "size": 30037399,
+    "checksum": "1c217ae8ec6ef204ecfae5c2c6ff85a193c1db8938f35ba330c706043134f5e0",
+    "md5": "7e5288e10f8f9cc1d3c0475e3334cf2a",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -254,7 +254,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-25T15:30:24"
+    "updatedAt": "2026-10-01T12:13:45"
   },
   {
     "id": "evidence-report-composer",
@@ -916,9 +916,9 @@
     "category": "PANEL",
     "fileName": "pdf-1.0.jar",
     "downloadUrl": "plugins/pdf-1.0.jar",
-    "size": 4556351,
-    "checksum": "ca5be4b165414201920ba400cf0e8d553ea043776b6fb27c4da86bb3153c060d",
-    "md5": "5f46e456369e7ffe8e7a1a0b564c08bc",
+    "size": 4556350,
+    "checksum": "f0c3f2051742a0f6cc5b42545edc5eec0f3d04e15ebcc736b45f7a112070083d",
+    "md5": "cb6d4cd07d64a859a1c88c6c28f0dbab",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -935,7 +935,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:39"
+    "updatedAt": "2026-10-01T12:13:38"
   },
   {
     "id": "plugin-diagnostics-center",
