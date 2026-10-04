@@ -202,9 +202,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 676175,
-    "checksum": "be64ba98c19359adf4766852863804afee62d8580ae2ecff1479bce2911732cd",
-    "md5": "b9f09f25f7d77dfa8f4e73b0988531ce",
+    "size": 681272,
+    "checksum": "40df3d0edca834bf7eccdea0634f7436d496a52738b0f6f6754512f6f90d0459",
+    "md5": "bfd625215203ae9a77317029e9cb1056",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -223,7 +223,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-01T12:13:40"
+    "updatedAt": "2026-10-04T10:48:06"
   },
   {
     "id": "database-workbench",
@@ -232,9 +232,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30037399,
-    "checksum": "1c217ae8ec6ef204ecfae5c2c6ff85a193c1db8938f35ba330c706043134f5e0",
-    "md5": "7e5288e10f8f9cc1d3c0475e3334cf2a",
+    "size": 30099463,
+    "checksum": "06564bc71cb83ab9d0823001069b8b04e05d665a16bdd97c8e4536d35817bd0a",
+    "md5": "3516adf9b444acbd0649180f82e739a8",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -254,7 +254,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-01T12:13:45"
+    "updatedAt": "2026-10-04T10:48:01"
   },
   {
     "id": "evidence-report-composer",
@@ -916,9 +916,9 @@
     "category": "PANEL",
     "fileName": "pdf-1.0.jar",
     "downloadUrl": "plugins/pdf-1.0.jar",
-    "size": 4556350,
-    "checksum": "f0c3f2051742a0f6cc5b42545edc5eec0f3d04e15ebcc736b45f7a112070083d",
-    "md5": "cb6d4cd07d64a859a1c88c6c28f0dbab",
+    "size": 4556351,
+    "checksum": "9442b18cef6078552c113c4cb9235859254fef0b449d50073003f3444aeeb695",
+    "md5": "4679df030128450ea0c644c0bd407455",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -935,7 +935,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-01T12:13:38"
+    "updatedAt": "2026-10-04T10:47:56"
   },
   {
     "id": "plugin-diagnostics-center",
@@ -1169,9 +1169,9 @@
     "category": "PANEL",
     "fileName": "request-flow-builder-1.0.0.jar",
     "downloadUrl": "plugins/request-flow-builder-1.0.0.jar",
-    "size": 366501,
-    "checksum": "5abd37be3a7d0980aea679112e22dfe0d512f457276e22121076b79dbeb37e1d",
-    "md5": "de9a533c4283ee23b4a2c62758c46607",
+    "size": 20972052,
+    "checksum": "d370b91c79515dd362b25a77bca56aa66edd9d0a34786891c2283c2a38dc93fc",
+    "md5": "f73fdb75c49c4f69b044b9765650aa13",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1189,7 +1189,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:47"
+    "updatedAt": "2026-10-04T10:48:05"
   },
   {
     "id": "secrets-pii-scanner",

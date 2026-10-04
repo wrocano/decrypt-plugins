@@ -5,8 +5,8 @@ b3dd750028b20a5d040ba2c068fe399c  aes-cbc-1.0.jar
 324c3556d91b5c72932fb7c02e1f2aca  automation-flow-studio-1.2.0.jar
 97d2610d8285b82da73c361ca3d5b83d  certificate-keystore-workbench-1.0.0.jar
 6967d0ff74d9a4ae103e9a0216b006d0  clipboard-history-1.0.jar
-b9f09f25f7d77dfa8f4e73b0988531ce  codex-chatgpt-studio-1.0.0.jar
-7e5288e10f8f9cc1d3c0475e3334cf2a  database-workbench-1.1.0.jar
+bfd625215203ae9a77317029e9cb1056  codex-chatgpt-studio-1.0.0.jar
+3516adf9b444acbd0649180f82e739a8  database-workbench-1.1.0.jar
 bd8a0f9c10d648db93107a763886d136  evidence-report-composer-1.1.0.jar
 046959c2bdc5c30f7d9968510156197d  fitbank-des-1.0.jar
 7750a7cfedee791aa5f68119e9b2812b  git-client-1.0.jar
@@ -30,7 +30,7 @@ d17fab91b06375dc73c467d7a0a59c5b  notes-studio-1.0.jar
 fce11ec210300e6162ea7e01a52a4f5a  observability-center-1.1.0.jar
 7b1e567bac5c9e67dc605bf8c549fdd5  openai-assistant-studio-1.0.0.jar
 ed5e54aa78d9a8c7ed5433c061ccb796  openapi-contract-studio-1.1.0.jar
-cb6d4cd07d64a859a1c88c6c28f0dbab  pdf-1.0.jar
+4679df030128450ea0c644c0bd407455  pdf-1.0.jar
 7cdec72802ba8468359f7b0242f153ae  plugin-diagnostics-center-1.0.0.jar
 379ba51dbc53e2ad50ffb30abb5b5f31  popup-remove-duplicates-1.0.jar
 f04ccddf008af391516f418afb25c846  popup-repeated-lines-table-1.0.jar
@@ -39,7 +39,7 @@ cb8d3d84b22b909145aecad7be979bf5  popup-secrets-pii-scanner-1.0.0.jar
 60765fc093a9558e36c87256908426d6  rabbitmq-workbench-1.0.0.jar
 cb1f3c33fbaadc291ad0e3fdfa72c0d0  redis-workbench-1.0.0.jar
 5a66dd7e8c7d68bc11bebe6c9d7df3b5  remote-connections-1.0.jar
-de9a533c4283ee23b4a2c62758c46607  request-flow-builder-1.0.0.jar
+f73fdb75c49c4f69b044b9765650aa13  request-flow-builder-1.0.0.jar
 4fa94f4c3aa3f7e7e620f3ddd60f1479  secrets-pii-scanner-1.0.0.jar
 f6e1ad2f17f41378cbe598088e7a5535  sftp-workbench-1.0.jar
 a05649cc68d16002089c1abc2c1a9efb  soap-client-1.0.jar
