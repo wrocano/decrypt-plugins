@@ -1,9 +1,9 @@
 {
-  "version": "10.0.13",
+  "version": "1.0.14",
   "fileName": "DEcrypt.jar",
-  "size": 78523449,
-  "checksum": "5838ecdbcb8a680ad4877b5f2b9aa17531f59d7161e6c83bfde6bedff07009bf",
-  "releaseNotes": "Mejoras en funcionalidades",
+  "size": 78570211,
+  "checksum": "3009e01321b716b8ccd39f998a76b7d0e2519e943a2e0496ed8da58520c5695b",
+  "releaseNotes": "Mejoras de UI UX",
   "minJavaVersion": "11",
-  "releaseDate": "2026-10-01T12:15:27"
+  "releaseDate": "2026-10-04T10:49:32"
 }
