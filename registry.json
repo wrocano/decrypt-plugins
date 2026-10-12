@@ -33,9 +33,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14826654,
-    "checksum": "3f584ded2b3fd51141f2e3fe8c926de0cb512c0ddd151a57e0fa61097a0594b2",
-    "md5": "029fe3268eb128a4bc2018514481948a",
+    "size": 14827979,
+    "checksum": "1b635f50f2f2c4ae274a69dbb875905cc15600e303320ed01e3eea4c5c148cda",
+    "md5": "cc5e6ae0ba1513d2e364d0bebaf4dc71",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -51,7 +51,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:39"
+    "updatedAt": "2026-10-12T10:14:26"
   },
   {
     "id": "aes-gcm-canales",
@@ -79,6 +79,33 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-09-27T12:25:37"
+  },
+  {
+    "id": "aes-gcm-syscard",
+    "name": "AES/GCM/Nopadding - SYSCARD 256 bits",
+    "version": "1.0",
+    "category": "CIPHER",
+    "fileName": "aes-gcm-syscard-1.0.jar",
+    "downloadUrl": "plugins/aes-gcm-syscard-1.0.jar",
+    "size": 14825857,
+    "checksum": "037831e542b6ebaae8804f3feed510d09704783c1b1d7b642e4f6c6a3c390b0a",
+    "md5": "5ff12717fee357cb8df4efd54f3934d6",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "SECRETS"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-10-12T10:14:25"
   },
   {
     "id": "asyncapi-contract-studio",
@@ -136,6 +163,33 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-09-12T13:56:11"
+  },
+  {
+    "id": "baustro-aes",
+    "name": "Baustro AES",
+    "version": "1.0.0",
+    "category": "CIPHER",
+    "fileName": "baustro-aes-1.0.0.jar",
+    "downloadUrl": "plugins/baustro-aes-1.0.0.jar",
+    "size": 8248,
+    "checksum": "b7551fe6d592cc42ffa82966494e62c86378b054d9e81e3ebc06719ede474a8d",
+    "md5": "4ecb01bd123b1ae5f0cff97cfd79b448",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "SECRETS"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-10-12T10:14:26"
   },
   {
     "id": "certificate-keystore-workbench",
@@ -202,9 +256,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 681272,
-    "checksum": "40df3d0edca834bf7eccdea0634f7436d496a52738b0f6f6754512f6f90d0459",
-    "md5": "bfd625215203ae9a77317029e9cb1056",
+    "size": 5006602,
+    "checksum": "b0af313c7b488891b67002c288c14f4cf3741385d36219971281425d21692363",
+    "md5": "e85f1f59680afc5a922054fc70b82de0",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -223,7 +277,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-04T10:48:06"
+    "updatedAt": "2026-10-12T10:14:23"
   },
   {
     "id": "database-workbench",
@@ -232,9 +286,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30099463,
-    "checksum": "06564bc71cb83ab9d0823001069b8b04e05d665a16bdd97c8e4536d35817bd0a",
-    "md5": "3516adf9b444acbd0649180f82e739a8",
+    "size": 30116327,
+    "checksum": "bdf2f7b446e61a8ea6eee37facbb05e2795bbe01b5e35c130cab9685a2596bd9",
+    "md5": "3e4fe41b4a95399db4c01f6d3b244884",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -254,7 +308,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-04T10:48:01"
+    "updatedAt": "2026-10-12T10:14:28"
   },
   {
     "id": "evidence-report-composer",
@@ -916,9 +970,9 @@
     "category": "PANEL",
     "fileName": "pdf-1.0.jar",
     "downloadUrl": "plugins/pdf-1.0.jar",
-    "size": 4556351,
-    "checksum": "9442b18cef6078552c113c4cb9235859254fef0b449d50073003f3444aeeb695",
-    "md5": "4679df030128450ea0c644c0bd407455",
+    "size": 4556350,
+    "checksum": "ba77d011cbac5a8176fd2bb7ee1dc8054c7b7dbdfed15fcad2120753d6b618a1",
+    "md5": "3a203d97f7a6ee1f47835d421fc0bfb5",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -935,7 +989,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-04T10:47:56"
+    "updatedAt": "2026-10-12T10:14:21"
   },
   {
     "id": "plugin-diagnostics-center",
