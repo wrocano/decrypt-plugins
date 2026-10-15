@@ -6,9 +6,9 @@
     "category": "CIPHER",
     "fileName": "aes-cbc-1.0.jar",
     "downloadUrl": "plugins/aes-cbc-1.0.jar",
-    "size": 14832463,
-    "checksum": "f4de29cba8e431e8925dd766d05ea1bcd56509587c402831f9250e19d8bf93e9",
-    "md5": "b3dd750028b20a5d040ba2c068fe399c",
+    "size": 14862930,
+    "checksum": "7e415b669c64379ffd8da02a9880886fbe4811e0f2abc723a8054ea725f08a7a",
+    "md5": "9a66c6c9424f2772f8c559a4b7541b1f",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -24,7 +24,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:36"
+    "updatedAt": "2026-10-15T15:42:54"
   },
   {
     "id": "aes-gcm",
@@ -33,9 +33,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14827979,
-    "checksum": "1b635f50f2f2c4ae274a69dbb875905cc15600e303320ed01e3eea4c5c148cda",
-    "md5": "cc5e6ae0ba1513d2e364d0bebaf4dc71",
+    "size": 14858446,
+    "checksum": "db02b5fe8ddd52a55c1dc9f765bcc55327aa78b5a64cad59bd7b96c257547709",
+    "md5": "5a346d613d95e36c801068b1e2134aef",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -51,7 +51,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-12T10:14:26"
+    "updatedAt": "2026-10-15T15:42:54"
   },
   {
     "id": "aes-gcm-canales",
@@ -60,9 +60,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-canales-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
-    "size": 14826418,
-    "checksum": "a405e8bc9984e4a1623d8ffb84421a73f0ffd820456c110de97bb5caeb9f61fc",
-    "md5": "14bb60489b050eebda06048aa59a83d2",
+    "size": 14856885,
+    "checksum": "9e8ad38fdee66e87e6308f2545b629cfbebcf3606e0962a024356d61205e17cb",
+    "md5": "8ee93ea77d6a6cbb7ff9dc1625e52c86",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -78,7 +78,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:37"
+    "updatedAt": "2026-10-15T15:42:55"
   },
   {
     "id": "aes-gcm-syscard",
@@ -87,9 +87,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-syscard-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-syscard-1.0.jar",
-    "size": 14825857,
-    "checksum": "037831e542b6ebaae8804f3feed510d09704783c1b1d7b642e4f6c6a3c390b0a",
-    "md5": "5ff12717fee357cb8df4efd54f3934d6",
+    "size": 14856324,
+    "checksum": "f93d87559a4e95e4b5686698b2c9c94b74b88d6d1cd012da63d2eb6e7723ea7d",
+    "md5": "f942bc4712e37291f73e119f338b6b57",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -105,7 +105,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-12T10:14:25"
+    "updatedAt": "2026-10-15T15:42:53"
   },
   {
     "id": "asyncapi-contract-studio",
@@ -256,9 +256,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 5006602,
-    "checksum": "b0af313c7b488891b67002c288c14f4cf3741385d36219971281425d21692363",
-    "md5": "e85f1f59680afc5a922054fc70b82de0",
+    "size": 5113297,
+    "checksum": "18005e0c1aba12c819c65768671257e5c6a085c6b22e378d498e06faf3a17414",
+    "md5": "169aa06b7588e3923df8bd6890ed3893",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -277,7 +277,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-12T10:14:23"
+    "updatedAt": "2026-10-15T15:42:51"
   },
   {
     "id": "database-workbench",
@@ -286,9 +286,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30116327,
-    "checksum": "bdf2f7b446e61a8ea6eee37facbb05e2795bbe01b5e35c130cab9685a2596bd9",
-    "md5": "3e4fe41b4a95399db4c01f6d3b244884",
+    "size": 30226828,
+    "checksum": "7d8c91b001bcca1cdd5f9d6dc980ef88966b833f86ff8b4eb6d0e4516220784e",
+    "md5": "94be6fd136a94626537f47a6b012d3aa",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -308,7 +308,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-12T10:14:28"
+    "updatedAt": "2026-10-15T15:42:57"
   },
   {
     "id": "evidence-report-composer",
@@ -345,9 +345,9 @@
     "category": "CIPHER",
     "fileName": "fitbank-des-1.0.jar",
     "downloadUrl": "plugins/fitbank-des-1.0.jar",
-    "size": 14797677,
-    "checksum": "4cebbe1f683193063f5f683f7cd40c07d677a0c38dfbde9623deb36560c32f1f",
-    "md5": "046959c2bdc5c30f7d9968510156197d",
+    "size": 14828144,
+    "checksum": "728b469a3b91d16f9f850179f78b979131030762af85d5ed4e60b6030daef711",
+    "md5": "70fa40f57ea23c88d8f5ede4e1a9b05c",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -363,7 +363,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:37"
+    "updatedAt": "2026-10-15T15:42:52"
   },
   {
     "id": "git-client",
@@ -970,9 +970,9 @@
     "category": "PANEL",
     "fileName": "pdf-1.0.jar",
     "downloadUrl": "plugins/pdf-1.0.jar",
-    "size": 4556350,
-    "checksum": "ba77d011cbac5a8176fd2bb7ee1dc8054c7b7dbdfed15fcad2120753d6b618a1",
-    "md5": "3a203d97f7a6ee1f47835d421fc0bfb5",
+    "size": 4556882,
+    "checksum": "c684a8c2585760ce35bed445cb268028556adbc5493e318fad9b958ebab62b4a",
+    "md5": "a121f0849c35c18f2a1d634720d1d450",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -989,7 +989,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-12T10:14:21"
+    "updatedAt": "2026-10-15T15:42:49"
   },
   {
     "id": "plugin-diagnostics-center",
@@ -1280,9 +1280,9 @@
     "category": "PANEL",
     "fileName": "sftp-workbench-1.0.jar",
     "downloadUrl": "plugins/sftp-workbench-1.0.jar",
-    "size": 1116851,
-    "checksum": "357e7c6162121d1ec34b215aded803e196b1f74083a6f7b0e0c0788fcdc439a6",
-    "md5": "f6e1ad2f17f41378cbe598088e7a5535",
+    "size": 1181880,
+    "checksum": "ffd091e32bbe5d672d0c6a914d0e89c8dce99899d2286e3281b22d86f176666b",
+    "md5": "9c0d6ff7f858360c9bf9e8e2d736b4c0",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1302,7 +1302,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-24T15:56:36"
+    "updatedAt": "2026-10-15T15:42:56"
   },
   {
     "id": "soap-client",
@@ -1311,9 +1311,9 @@
     "category": "PANEL",
     "fileName": "soap-client-1.0.jar",
     "downloadUrl": "plugins/soap-client-1.0.jar",
-    "size": 9822229,
-    "checksum": "d78e90359adc820a4deb6475a002aabb7bda7c694875442d97d2f2e3f15b1b13",
-    "md5": "a05649cc68d16002089c1abc2c1a9efb",
+    "size": 9822405,
+    "checksum": "43b910e2e3cc8e02a77edaa66076c4b955f2c8e4754898d9056ecdd71a6c4728",
+    "md5": "7d78a81a9f193c0e856ce5492903c95d",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1333,7 +1333,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-12T13:56:25"
+    "updatedAt": "2026-10-15T15:42:50"
   },
   {
     "id": "triple-des",
@@ -1342,9 +1342,9 @@
     "category": "CIPHER",
     "fileName": "triple-des-1.0.jar",
     "downloadUrl": "plugins/triple-des-1.0.jar",
-    "size": 14825544,
-    "checksum": "e750862a9fdda6ea99dd6ea4300d071e5cd5f4b431ab4173b3dda3b529b6e859",
-    "md5": "5a3e7a32401c5a4b325e0f430fbf6e1e",
+    "size": 14856011,
+    "checksum": "ac16e3fd50dbe840f5695001b2911ff88a9236b41d7b76c7a86db2fe56c549a2",
+    "md5": "dbbc7b79a7dfd6999ab4fdd03fd57ee5",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1360,7 +1360,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-27T12:25:38"
+    "updatedAt": "2026-10-15T15:42:53"
   },
   {
     "id": "widget-calculator",
@@ -1396,9 +1396,9 @@
     "category": "WIDGET",
     "fileName": "widget-converter-base64-1.0.jar",
     "downloadUrl": "plugins/widget-converter-base64-1.0.jar",
-    "size": 6887,
-    "checksum": "06172ab2fbe856b2c0cf27f82454f427b79daca8d02a82e140ad2c97b407d066",
-    "md5": "7c91a3450fd38280bbbadef85fee4151",
+    "size": 13421,
+    "checksum": "d3006ce93d084c15f3d05abf2018f3044db51b63a747ebb748532d7a5f403ac7",
+    "md5": "ec507926100b7eb38441ef7f3e66bc57",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1414,7 +1414,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-12T13:56:44"
+    "updatedAt": "2026-10-15T15:43:00"
   },
   {
     "id": "widget-data-generator",
