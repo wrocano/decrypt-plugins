@@ -1,9 +1,9 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "fileName": "DEcrypt.jar",
-  "size": 78830802,
-  "checksum": "dd655b2e4c12f8c213dee5d687e8db8f328ad6a58ecad594ff528a846564c2d2",
-  "releaseNotes": "Mejoras de UI",
+  "size": 79896395,
+  "checksum": "4bf61ebfb402aa33d4c518e3f3aedebd25198aff7a6089b0a935bd3fdf4049e4",
+  "releaseNotes": "Mejoras UI",
   "minJavaVersion": "11",
-  "releaseDate": "2026-10-12T10:16:19"
+  "releaseDate": "2026-10-15T15:44:32"
 }
