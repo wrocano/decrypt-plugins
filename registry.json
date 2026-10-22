@@ -6,9 +6,9 @@
     "category": "CIPHER",
     "fileName": "aes-cbc-1.0.jar",
     "downloadUrl": "plugins/aes-cbc-1.0.jar",
-    "size": 14862930,
-    "checksum": "7e415b669c64379ffd8da02a9880886fbe4811e0f2abc723a8054ea725f08a7a",
-    "md5": "9a66c6c9424f2772f8c559a4b7541b1f",
+    "size": 14870667,
+    "checksum": "068b67e113ecc5294d3f2c4b0c9494e9846756247f577a4fd5d813983a850a05",
+    "md5": "bdb12712d7b39b1e097ce5f241057e81",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -24,7 +24,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:54"
+    "updatedAt": "2026-10-22T11:48:50"
   },
   {
     "id": "aes-gcm",
@@ -33,9 +33,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14858446,
-    "checksum": "db02b5fe8ddd52a55c1dc9f765bcc55327aa78b5a64cad59bd7b96c257547709",
-    "md5": "5a346d613d95e36c801068b1e2134aef",
+    "size": 14866183,
+    "checksum": "613840c1cba4d65eb9d95fcc311874e65bb73679d495b62e1ecb53f26fd41882",
+    "md5": "797b3060605094c723180832b6b2d7ae",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -51,7 +51,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:54"
+    "updatedAt": "2026-10-22T11:48:49"
   },
   {
     "id": "aes-gcm-canales",
@@ -60,9 +60,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-canales-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
-    "size": 14856885,
-    "checksum": "9e8ad38fdee66e87e6308f2545b629cfbebcf3606e0962a024356d61205e17cb",
-    "md5": "8ee93ea77d6a6cbb7ff9dc1625e52c86",
+    "size": 14864622,
+    "checksum": "99e67aedd5228e1f58f3e4837944c0f87ea932d19745a9a3e5c56e3d6f5c40ab",
+    "md5": "e366624840272658873e9a3404a593b2",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -78,7 +78,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:55"
+    "updatedAt": "2026-10-22T11:48:50"
   },
   {
     "id": "aes-gcm-syscard",
@@ -87,9 +87,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-syscard-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-syscard-1.0.jar",
-    "size": 14856324,
-    "checksum": "f93d87559a4e95e4b5686698b2c9c94b74b88d6d1cd012da63d2eb6e7723ea7d",
-    "md5": "f942bc4712e37291f73e119f338b6b57",
+    "size": 14864061,
+    "checksum": "27779ce98180435b99095828c9c03c5977062ec7f4e3d31a0f89e7bb11690150",
+    "md5": "7c4591e74a047a3231ac6cf715dab690",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -105,7 +105,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:53"
+    "updatedAt": "2026-10-22T11:48:49"
   },
   {
     "id": "asyncapi-contract-studio",
@@ -256,9 +256,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 5113297,
-    "checksum": "18005e0c1aba12c819c65768671257e5c6a085c6b22e378d498e06faf3a17414",
-    "md5": "169aa06b7588e3923df8bd6890ed3893",
+    "size": 5127262,
+    "checksum": "7f96dd02df849bd869714221849d9a1f021b8543e2b6c4930f7c6ed58dd524ac",
+    "md5": "7d3b35865d912c92c68b3df4b154ee4f",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -277,7 +277,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:51"
+    "updatedAt": "2026-10-22T11:48:46"
   },
   {
     "id": "database-workbench",
@@ -286,9 +286,9 @@
     "category": "PANEL",
     "fileName": "database-workbench-1.1.0.jar",
     "downloadUrl": "plugins/database-workbench-1.1.0.jar",
-    "size": 30226828,
-    "checksum": "7d8c91b001bcca1cdd5f9d6dc980ef88966b833f86ff8b4eb6d0e4516220784e",
-    "md5": "94be6fd136a94626537f47a6b012d3aa",
+    "size": 30232477,
+    "checksum": "260d2c82d2c915c1c837a79f48b9f0db0593ff422c9db36149a9da8d46115526",
+    "md5": "386994d4676743bb5d4a1fcba2ec3f9d",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -308,7 +308,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:57"
+    "updatedAt": "2026-10-22T11:48:53"
   },
   {
     "id": "evidence-report-composer",
@@ -345,9 +345,9 @@
     "category": "CIPHER",
     "fileName": "fitbank-des-1.0.jar",
     "downloadUrl": "plugins/fitbank-des-1.0.jar",
-    "size": 14828144,
-    "checksum": "728b469a3b91d16f9f850179f78b979131030762af85d5ed4e60b6030daef711",
-    "md5": "70fa40f57ea23c88d8f5ede4e1a9b05c",
+    "size": 14835881,
+    "checksum": "74edf96af2a7d43c81d80568d278e8976bb104774ced5f5e61ccd8d16d35ea6a",
+    "md5": "80cdb145ef7f500f84dddefbdf1dcf5a",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -363,7 +363,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:52"
+    "updatedAt": "2026-10-22T11:48:48"
   },
   {
     "id": "git-client",
@@ -766,9 +766,9 @@
     "category": "PANEL",
     "fileName": "mock-2.0.0.jar",
     "downloadUrl": "plugins/mock-2.0.0.jar",
-    "size": 411785,
-    "checksum": "df4d0a1694d143a1d2a16c411d9d6390adc1c2452a302dcc491f9c21ed594e93",
-    "md5": "94af6cc25be7d43bad102732fb3bcd49",
+    "size": 427771,
+    "checksum": "e32a579fc71a9bea32bd6ad9b55e1bd39aaa88019bf1e2891f62acf681163c21",
+    "md5": "4f1fe1fcb65f6e3b76b0317af3a101d9",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -786,7 +786,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-09-24T15:56:39"
+    "updatedAt": "2026-10-22T11:48:55"
   },
   {
     "id": "mqtt-workbench",
@@ -817,6 +817,36 @@
     "signatureAlgorithm": null,
     "signature": null,
     "updatedAt": "2026-09-12T13:56:34"
+  },
+  {
+    "id": "multi-ia",
+    "name": "Multi IA",
+    "version": "1.0.0",
+    "category": "PANEL",
+    "fileName": "multi-ia-1.0.0.jar",
+    "downloadUrl": "plugins/multi-ia-1.0.0.jar",
+    "size": 5395071,
+    "checksum": "d969024d51324a7f35539c06caafb10e6d3d66c476ca0a4fd20dafac0bbe23e0",
+    "md5": "42153d301070852a4482244be10372e8",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "CLIPBOARD"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-10-22T11:48:44"
   },
   {
     "id": "notes-studio",
@@ -1126,6 +1156,37 @@
     "updatedAt": "2026-09-24T15:56:39"
   },
   {
+    "id": "portable-browser",
+    "name": "Portable Browser",
+    "version": "1.0.1",
+    "category": "PANEL",
+    "fileName": "portable-browser-1.0.1.jar",
+    "downloadUrl": "plugins/portable-browser-1.0.1.jar",
+    "size": 8560952,
+    "checksum": "ff92b44def769dbb1203b7abada7703b5cb5eb50928e978699583881b537f3b7",
+    "md5": "a41c500a442c493abf93bd991d6f1105",
+    "metadataVersion": "1",
+    "sdkVersion": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "capabilities": [
+      "NETWORK",
+      "FILESYSTEM",
+      "PROCESS_EXECUTION",
+      "SECRETS",
+      "CLIPBOARD"
+    ],
+    "executionMode": null,
+    "isolatedEntrypoint": null,
+    "isolationBrokerVersion": null,
+    "author": "DEcrypt Team",
+    "publisherId": null,
+    "publisherName": null,
+    "keyId": null,
+    "signatureAlgorithm": null,
+    "signature": null,
+    "updatedAt": "2026-10-22T11:48:55"
+  },
+  {
     "id": "rabbitmq-workbench",
     "name": "RabbitMQ Workbench",
     "version": "1.0.0",
@@ -1342,9 +1403,9 @@
     "category": "CIPHER",
     "fileName": "triple-des-1.0.jar",
     "downloadUrl": "plugins/triple-des-1.0.jar",
-    "size": 14856011,
-    "checksum": "ac16e3fd50dbe840f5695001b2911ff88a9236b41d7b76c7a86db2fe56c549a2",
-    "md5": "dbbc7b79a7dfd6999ab4fdd03fd57ee5",
+    "size": 14863748,
+    "checksum": "3101d3521b6373fe6e7c2c7db40755b9b9419ba37b1a5dd15e985c85fd651d40",
+    "md5": "1fd6caac68e04030372480f2e69e4786",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1360,7 +1421,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-15T15:42:53"
+    "updatedAt": "2026-10-22T11:48:48"
   },
   {
     "id": "widget-calculator",
