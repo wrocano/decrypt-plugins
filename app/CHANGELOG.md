@@ -1,3 +1,10 @@
+## DEcrypt 1.0.19
+
+- actualizacion de aplicacion y barra avanza durante la descarga.
+- mejora en importacion de request desde curl
+
+Commit fuente: 68aad8d522f90da3e6e1d6420029e2f57e7060c4
+
 ## DEcrypt 1.0.18
 
 - actualizacion de iconos de plugins al procesar independiente
