@@ -1,9 +1,9 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "fileName": "DEcrypt.jar",
-  "size": 79935078,
-  "checksum": "f8eeaf7cee231550488a55b393f11ef9e4cbecf9440fce0fc4c541720f60cd61",
-  "releaseNotes": "Mejoras UI",
+  "size": 79960022,
+  "checksum": "1c49b0a18b5869bf7a1097010dea8d5796bb011655a1e301abdcef34534502c0",
+  "releaseNotes": "- actualizacion de iconos de plugins al procesar independiente\n- mejora UI UX y lanzador de plugins como procesos independientes\n- migracion desde curl a coleccion\n- cambios en nombres de las opciones nuevo request y Duplicar\n- mejora en navegacion entre colecciones\n- abrir conversaciones en nuevos tabs\n- fix de simbolo x duplicado en tabs\n- fix de simbolo + duplicado en tabs\n- implementacion para ollama\n- boton json solo icono y request vacio en nueva pestana",
   "minJavaVersion": "11",
-  "releaseDate": "2026-10-26T16:51:39"
+  "releaseDate": "2026-10-29T20:35:37"
 }

@@ -1,0 +1,6 @@
+{
+  "version": "1.0.18",
+  "sourceCommit": "44fc4e2553876be8ae378c25d928dce2fd3015d9",
+  "previousSourceCommit": "7995e3fd0dfa89567b8221b63962f3c0ee427c11",
+  "releaseNotes": "- actualizacion de iconos de plugins al procesar independiente\n- mejora UI UX y lanzador de plugins como procesos independientes\n- migracion desde curl a coleccion\n- cambios en nombres de las opciones nuevo request y Duplicar\n- mejora en navegacion entre colecciones\n- abrir conversaciones en nuevos tabs\n- fix de simbolo x duplicado en tabs\n- fix de simbolo + duplicado en tabs\n- implementacion para ollama\n- boton json solo icono y request vacio en nueva pestana"
+}
