@@ -6,9 +6,9 @@
     "category": "CIPHER",
     "fileName": "aes-cbc-1.0.jar",
     "downloadUrl": "plugins/aes-cbc-1.0.jar",
-    "size": 14870756,
-    "checksum": "a9fe22b998a340fb6ca84c07fdff4a15bc06adf29c9db84bb4f1dcf88435f205",
-    "md5": "07d15d46e011c3c9d11b34e4f8a417e1",
+    "size": 14871223,
+    "checksum": "611d2267509594bae8156b6c75d62ca29f7694336f9013bf303c75d1f5b790b9",
+    "md5": "7521f09613aa56b6576533239ecde87a",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -24,7 +24,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:52:01"
+    "updatedAt": "2026-10-30T16:39:05"
   },
   {
     "id": "aes-gcm",
@@ -33,9 +33,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-1.0.jar",
-    "size": 14866272,
-    "checksum": "1e69dd3df191654fa73dbe97eb36b16dd2fa101d1f31bb608544ccac002a8475",
-    "md5": "00cf84c1e4468838b308c396c47c8249",
+    "size": 14866739,
+    "checksum": "8ffa9db6074c919b9a936af6621012520bc6e79aaab340fe0e026548c50dc9c4",
+    "md5": "0632f33ba4d0218b44f0cd9baf8ce033",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -51,7 +51,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:52:00"
+    "updatedAt": "2026-10-30T16:39:05"
   },
   {
     "id": "aes-gcm-canales",
@@ -60,9 +60,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-canales-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-canales-1.0.jar",
-    "size": 14864711,
-    "checksum": "6e2d09fe849fb9fdafd5866793adfe983d9b1cc2aac6b71309e22e69ba184d06",
-    "md5": "43124958c39c548de696491fc4b446ca",
+    "size": 14865178,
+    "checksum": "ff1b5b3e861769f8b35f564c6339747da35e1e5e11fbb770dd155ff3c032ff61",
+    "md5": "6cdda569428f32b1fa0a58e44de8e569",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -78,7 +78,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:52:01"
+    "updatedAt": "2026-10-30T16:39:06"
   },
   {
     "id": "aes-gcm-syscard",
@@ -87,9 +87,9 @@
     "category": "CIPHER",
     "fileName": "aes-gcm-syscard-1.0.jar",
     "downloadUrl": "plugins/aes-gcm-syscard-1.0.jar",
-    "size": 14864150,
-    "checksum": "4d67ef8ac3d3b6d376762edcbcc26a149cc4eb382d897e731f01da1dd284b094",
-    "md5": "b876d88229da26167d025545275e8d73",
+    "size": 14864617,
+    "checksum": "312ac292ec888defee7067c24228f0b0dbe445be4d6ec9d32d6ce784e42d9ed1",
+    "md5": "e36aee0fa3cc263012736017f43d254f",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -105,7 +105,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:51:59"
+    "updatedAt": "2026-10-30T16:39:04"
   },
   {
     "id": "asyncapi-contract-studio",
@@ -256,9 +256,9 @@
     "category": "PANEL",
     "fileName": "codex-chatgpt-studio-1.0.0.jar",
     "downloadUrl": "plugins/codex-chatgpt-studio-1.0.0.jar",
-    "size": 5219131,
-    "checksum": "17c87e93f0b08672de25231f0704b487bf9f277671e7dd2aa38718282d0b7a18",
-    "md5": "d899f1ef6cf3902bfe51fae7c68ceaee",
+    "size": 5220653,
+    "checksum": "4039140f013e17ff73dc0ba3b026d990836f6f97bccc546a2a626172a4365ed6",
+    "md5": "feb1cdd4174d69444c562d747215069a",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -277,7 +277,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:51:55"
+    "updatedAt": "2026-10-30T16:39:02"
   },
   {
     "id": "database-workbench",
@@ -373,9 +373,9 @@
     "category": "CIPHER",
     "fileName": "fitbank-des-1.0.jar",
     "downloadUrl": "plugins/fitbank-des-1.0.jar",
-    "size": 14835970,
-    "checksum": "de700d96dee5406d4f2bb6d9c6e83145d41d32583f005e579c70811f3129e6eb",
-    "md5": "3338cf2c15abd944bb3a1386e95e96f3",
+    "size": 14836437,
+    "checksum": "44f5728f9f0ce0a405cded9f019f2af36bc8d8769a47c30f0e46bbfc462574a3",
+    "md5": "1a407d9baeb4dd982e9f0083725af2aa",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -391,7 +391,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:51:58"
+    "updatedAt": "2026-10-30T16:39:03"
   },
   {
     "id": "git-client",
@@ -853,9 +853,9 @@
     "category": "PANEL",
     "fileName": "multi-ia-1.0.0.jar",
     "downloadUrl": "plugins/multi-ia-1.0.0.jar",
-    "size": 5564463,
-    "checksum": "d22308118ec2cf6502ba521f13da244b9b4ac9d404051da3dad59fbcf6418ced",
-    "md5": "5d3f8a5034527452a79c386f2d042c25",
+    "size": 5570811,
+    "checksum": "a07dff749a3d5c6f7ce409ffa8035688f64194782d55e622363aff972f3296e5",
+    "md5": "7103ae259a780327ec96a5e46ef6e53c",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -874,7 +874,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:51:52"
+    "updatedAt": "2026-10-30T16:39:00"
   },
   {
     "id": "notes-studio",
@@ -1431,9 +1431,9 @@
     "category": "CIPHER",
     "fileName": "triple-des-1.0.jar",
     "downloadUrl": "plugins/triple-des-1.0.jar",
-    "size": 14863837,
-    "checksum": "ccea603a67d9b4cacf51a9fa6c41300430ca87c3dcb083bebc60298f4c9ad510",
-    "md5": "4867aea29958ddc8cd85e43831be734b",
+    "size": 14864304,
+    "checksum": "78fe15f28676c8837d3b2360179409cd6a76bf02fec9e9744a3080cdbec18832",
+    "md5": "b7f982ed75ca4ed8de117762fcf42c0b",
     "metadataVersion": "1",
     "sdkVersion": "1.0.0",
     "minAppVersion": "1.0.0",
@@ -1449,7 +1449,7 @@
     "keyId": null,
     "signatureAlgorithm": null,
     "signature": null,
-    "updatedAt": "2026-10-29T08:51:58"
+    "updatedAt": "2026-10-30T16:39:04"
   },
   {
     "id": "widget-calculator",
